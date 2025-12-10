@@ -1,0 +1,2974 @@
+[
+  {
+    "hora": 0,
+    "demanda_mwh": 7996
+  },
+  {
+    "hora": 1,
+    "demanda_mwh": 7748
+  },
+  {
+    "hora": 2,
+    "demanda_mwh": 7645
+  },
+  {
+    "hora": 3,
+    "demanda_mwh": 7629
+  },
+  {
+    "hora": 4,
+    "demanda_mwh": 7722
+  },
+  {
+    "hora": 5,
+    "demanda_mwh": 8279
+  },
+  {
+    "hora": 6,
+    "demanda_mwh": 8696
+  },
+  {
+    "hora": 7,
+    "demanda_mwh": 8913
+  },
+  {
+    "hora": 8,
+    "demanda_mwh": 9162
+  },
+  {
+    "hora": 9,
+    "demanda_mwh": 9203
+  },
+  {
+    "hora": 10,
+    "demanda_mwh": 9165
+  },
+  {
+    "hora": 11,
+    "demanda_mwh": 9125
+  },
+  {
+    "hora": 12,
+    "demanda_mwh": 9089
+  },
+  {
+    "hora": 13,
+    "demanda_mwh": 9089
+  },
+  {
+    "hora": 14,
+    "demanda_mwh": 9031
+  },
+  {
+    "hora": 15,
+    "demanda_mwh": 8935
+  },
+  {
+    "hora": 16,
+    "demanda_mwh": 8733
+  },
+  {
+    "hora": 17,
+    "demanda_mwh": 8720
+  },
+  {
+    "hora": 18,
+    "demanda_mwh": 8880
+  },
+  {
+    "hora": 19,
+    "demanda_mwh": 9406
+  },
+  {
+    "hora": 20,
+    "demanda_mwh": 9374
+  },
+  {
+    "hora": 21,
+    "demanda_mwh": 9107
+  },
+  {
+    "hora": 22,
+    "demanda_mwh": 8665
+  },
+  {
+    "hora": -1,
+    "demanda_mwh": 8176
+  },
+  {
+    "hora": 0,
+    "demanda_mwh": 7773
+  },
+  {
+    "hora": 1,
+    "demanda_mwh": 7563
+  },
+  {
+    "hora": 2,
+    "demanda_mwh": 7410
+  },
+  {
+    "hora": 3,
+    "demanda_mwh": 7362
+  },
+  {
+    "hora": 4,
+    "demanda_mwh": 7477
+  },
+  {
+    "hora": 5,
+    "demanda_mwh": 8020
+  },
+  {
+    "hora": 6,
+    "demanda_mwh": 8450
+  },
+  {
+    "hora": 7,
+    "demanda_mwh": 8735
+  },
+  {
+    "hora": 8,
+    "demanda_mwh": 9038
+  },
+  {
+    "hora": 9,
+    "demanda_mwh": 9170
+  },
+  {
+    "hora": 10,
+    "demanda_mwh": 9173
+  },
+  {
+    "hora": 11,
+    "demanda_mwh": 9149
+  },
+  {
+    "hora": 12,
+    "demanda_mwh": 9202
+  },
+  {
+    "hora": 13,
+    "demanda_mwh": 9261
+  },
+  {
+    "hora": 14,
+    "demanda_mwh": 9224
+  },
+  {
+    "hora": 15,
+    "demanda_mwh": 9269
+  },
+  {
+    "hora": 16,
+    "demanda_mwh": 9119
+  },
+  {
+    "hora": 17,
+    "demanda_mwh": 8956
+  },
+  {
+    "hora": 18,
+    "demanda_mwh": 9139
+  },
+  {
+    "hora": 19,
+    "demanda_mwh": 9583
+  },
+  {
+    "hora": 20,
+    "demanda_mwh": 9471
+  },
+  {
+    "hora": 21,
+    "demanda_mwh": 9204
+  },
+  {
+    "hora": 22,
+    "demanda_mwh": 8790
+  },
+  {
+    "hora": -1,
+    "demanda_mwh": 8375
+  },
+  {
+    "hora": 0,
+    "demanda_mwh": 8001
+  },
+  {
+    "hora": 1,
+    "demanda_mwh": 7750
+  },
+  {
+    "hora": 2,
+    "demanda_mwh": 7638
+  },
+  {
+    "hora": 3,
+    "demanda_mwh": 7559
+  },
+  {
+    "hora": 4,
+    "demanda_mwh": 7663
+  },
+  {
+    "hora": 5,
+    "demanda_mwh": 8174
+  },
+  {
+    "hora": 6,
+    "demanda_mwh": 8651
+  },
+  {
+    "hora": 7,
+    "demanda_mwh": 9041
+  },
+  {
+    "hora": 8,
+    "demanda_mwh": 9367
+  },
+  {
+    "hora": 9,
+    "demanda_mwh": 9423
+  },
+  {
+    "hora": 10,
+    "demanda_mwh": 9470
+  },
+  {
+    "hora": 11,
+    "demanda_mwh": 9497
+  },
+  {
+    "hora": 12,
+    "demanda_mwh": 9519
+  },
+  {
+    "hora": 13,
+    "demanda_mwh": 9548
+  },
+  {
+    "hora": 14,
+    "demanda_mwh": 9505
+  },
+  {
+    "hora": 15,
+    "demanda_mwh": 9267
+  },
+  {
+    "hora": 16,
+    "demanda_mwh": 8991
+  },
+  {
+    "hora": 17,
+    "demanda_mwh": 8923
+  },
+  {
+    "hora": 18,
+    "demanda_mwh": 9155
+  },
+  {
+    "hora": 19,
+    "demanda_mwh": 9532
+  },
+  {
+    "hora": 20,
+    "demanda_mwh": 9442
+  },
+  {
+    "hora": 21,
+    "demanda_mwh": 9218
+  },
+  {
+    "hora": 22,
+    "demanda_mwh": 8875
+  },
+  {
+    "hora": -1,
+    "demanda_mwh": 8444
+  },
+  {
+    "hora": 0,
+    "demanda_mwh": 8110
+  },
+  {
+    "hora": 1,
+    "demanda_mwh": 7818
+  },
+  {
+    "hora": 2,
+    "demanda_mwh": 7638
+  },
+  {
+    "hora": 3,
+    "demanda_mwh": 7535
+  },
+  {
+    "hora": 4,
+    "demanda_mwh": 7546
+  },
+  {
+    "hora": 5,
+    "demanda_mwh": 7646
+  },
+  {
+    "hora": 6,
+    "demanda_mwh": 7741
+  },
+  {
+    "hora": 7,
+    "demanda_mwh": 8014
+  },
+  {
+    "hora": 8,
+    "demanda_mwh": 8459
+  },
+  {
+    "hora": 9,
+    "demanda_mwh": 8806
+  },
+  {
+    "hora": 10,
+    "demanda_mwh": 8844
+  },
+  {
+    "hora": 11,
+    "demanda_mwh": 8850
+  },
+  {
+    "hora": 12,
+    "demanda_mwh": 8883
+  },
+  {
+    "hora": 13,
+    "demanda_mwh": 8787
+  },
+  {
+    "hora": 14,
+    "demanda_mwh": 8607
+  },
+  {
+    "hora": 15,
+    "demanda_mwh": 8471
+  },
+  {
+    "hora": 16,
+    "demanda_mwh": 8386
+  },
+  {
+    "hora": 17,
+    "demanda_mwh": 8348
+  },
+  {
+    "hora": 18,
+    "demanda_mwh": 8550
+  },
+  {
+    "hora": 19,
+    "demanda_mwh": 8978
+  },
+  {
+    "hora": 20,
+    "demanda_mwh": 8926
+  },
+  {
+    "hora": 21,
+    "demanda_mwh": 8720
+  },
+  {
+    "hora": 22,
+    "demanda_mwh": 8416
+  },
+  {
+    "hora": -1,
+    "demanda_mwh": 8006
+  },
+  {
+    "hora": 0,
+    "demanda_mwh": 7657
+  },
+  {
+    "hora": 1,
+    "demanda_mwh": 7370
+  },
+  {
+    "hora": 2,
+    "demanda_mwh": 7202
+  },
+  {
+    "hora": 3,
+    "demanda_mwh": 7141
+  },
+  {
+    "hora": 4,
+    "demanda_mwh": 7055
+  },
+  {
+    "hora": 5,
+    "demanda_mwh": 7108
+  },
+  {
+    "hora": 6,
+    "demanda_mwh": 7130
+  },
+  {
+    "hora": 7,
+    "demanda_mwh": 7335
+  },
+  {
+    "hora": 8,
+    "demanda_mwh": 7805
+  },
+  {
+    "hora": 9,
+    "demanda_mwh": 8173
+  },
+  {
+    "hora": 10,
+    "demanda_mwh": 8423
+  },
+  {
+    "hora": 11,
+    "demanda_mwh": 8568
+  },
+  {
+    "hora": 12,
+    "demanda_mwh": 8669
+  },
+  {
+    "hora": 13,
+    "demanda_mwh": 8638
+  },
+  {
+    "hora": 14,
+    "demanda_mwh": 8439
+  },
+  {
+    "hora": 15,
+    "demanda_mwh": 8347
+  },
+  {
+    "hora": 16,
+    "demanda_mwh": 8278
+  },
+  {
+    "hora": 17,
+    "demanda_mwh": 8347
+  },
+  {
+    "hora": 18,
+    "demanda_mwh": 8640
+  },
+  {
+    "hora": 19,
+    "demanda_mwh": 9285
+  },
+  {
+    "hora": 20,
+    "demanda_mwh": 9376
+  },
+  {
+    "hora": 21,
+    "demanda_mwh": 9106
+  },
+  {
+    "hora": 22,
+    "demanda_mwh": 8627
+  },
+  {
+    "hora": -1,
+    "demanda_mwh": 8184
+  },
+  {
+    "hora": 0,
+    "demanda_mwh": 7768
+  },
+  {
+    "hora": 1,
+    "demanda_mwh": 7534
+  },
+  {
+    "hora": 2,
+    "demanda_mwh": 7420
+  },
+  {
+    "hora": 3,
+    "demanda_mwh": 7406
+  },
+  {
+    "hora": 4,
+    "demanda_mwh": 7501
+  },
+  {
+    "hora": 5,
+    "demanda_mwh": 8136
+  },
+  {
+    "hora": 6,
+    "demanda_mwh": 8758
+  },
+  {
+    "hora": 7,
+    "demanda_mwh": 9179
+  },
+  {
+    "hora": 8,
+    "demanda_mwh": 9526
+  },
+  {
+    "hora": 9,
+    "demanda_mwh": 9592
+  },
+  {
+    "hora": 10,
+    "demanda_mwh": 9609
+  },
+  {
+    "hora": 11,
+    "demanda_mwh": 9563
+  },
+  {
+    "hora": 12,
+    "demanda_mwh": 9519
+  },
+  {
+    "hora": 13,
+    "demanda_mwh": 9536
+  },
+  {
+    "hora": 14,
+    "demanda_mwh": 9484
+  },
+  {
+    "hora": 15,
+    "demanda_mwh": 9369
+  },
+  {
+    "hora": 16,
+    "demanda_mwh": 9259
+  },
+  {
+    "hora": 17,
+    "demanda_mwh": 9120
+  },
+  {
+    "hora": 18,
+    "demanda_mwh": 9306
+  },
+  {
+    "hora": 19,
+    "demanda_mwh": 9843
+  },
+  {
+    "hora": 20,
+    "demanda_mwh": 9746
+  },
+  {
+    "hora": 21,
+    "demanda_mwh": 9391
+  },
+  {
+    "hora": 22,
+    "demanda_mwh": 8893
+  },
+  {
+    "hora": -1,
+    "demanda_mwh": 8355
+  },
+  {
+    "hora": 0,
+    "demanda_mwh": 7977
+  },
+  {
+    "hora": 1,
+    "demanda_mwh": 7797
+  },
+  {
+    "hora": 2,
+    "demanda_mwh": 7687
+  },
+  {
+    "hora": 3,
+    "demanda_mwh": 7690
+  },
+  {
+    "hora": 4,
+    "demanda_mwh": 7847
+  },
+  {
+    "hora": 5,
+    "demanda_mwh": 8418
+  },
+  {
+    "hora": 6,
+    "demanda_mwh": 8906
+  },
+  {
+    "hora": 7,
+    "demanda_mwh": 9226
+  },
+  {
+    "hora": 8,
+    "demanda_mwh": 9467
+  },
+  {
+    "hora": 9,
+    "demanda_mwh": 9471
+  },
+  {
+    "hora": 10,
+    "demanda_mwh": 9441
+  },
+  {
+    "hora": 11,
+    "demanda_mwh": 9440
+  },
+  {
+    "hora": 12,
+    "demanda_mwh": 9408
+  },
+  {
+    "hora": 13,
+    "demanda_mwh": 9313
+  },
+  {
+    "hora": 14,
+    "demanda_mwh": 9193
+  },
+  {
+    "hora": 15,
+    "demanda_mwh": 9114
+  },
+  {
+    "hora": 16,
+    "demanda_mwh": 8929
+  },
+  {
+    "hora": 17,
+    "demanda_mwh": 8828
+  },
+  {
+    "hora": 18,
+    "demanda_mwh": 8996
+  },
+  {
+    "hora": 19,
+    "demanda_mwh": 9572
+  },
+  {
+    "hora": 20,
+    "demanda_mwh": 9575
+  },
+  {
+    "hora": 21,
+    "demanda_mwh": 9339
+  },
+  {
+    "hora": 22,
+    "demanda_mwh": 8905
+  },
+  {
+    "hora": -1,
+    "demanda_mwh": 8428
+  },
+  {
+    "hora": 0,
+    "demanda_mwh": 7994
+  },
+  {
+    "hora": 1,
+    "demanda_mwh": 7748
+  },
+  {
+    "hora": 2,
+    "demanda_mwh": 7662
+  },
+  {
+    "hora": 3,
+    "demanda_mwh": 7608
+  },
+  {
+    "hora": 4,
+    "demanda_mwh": 7706
+  },
+  {
+    "hora": 5,
+    "demanda_mwh": 8293
+  },
+  {
+    "hora": 6,
+    "demanda_mwh": 8706
+  },
+  {
+    "hora": 7,
+    "demanda_mwh": 8963
+  },
+  {
+    "hora": 8,
+    "demanda_mwh": 9218
+  },
+  {
+    "hora": 9,
+    "demanda_mwh": 9261
+  },
+  {
+    "hora": 10,
+    "demanda_mwh": 9257
+  },
+  {
+    "hora": 11,
+    "demanda_mwh": 9188
+  },
+  {
+    "hora": 12,
+    "demanda_mwh": 9167
+  },
+  {
+    "hora": 13,
+    "demanda_mwh": 9192
+  },
+  {
+    "hora": 14,
+    "demanda_mwh": 9256
+  },
+  {
+    "hora": 15,
+    "demanda_mwh": 9300
+  },
+  {
+    "hora": 16,
+    "demanda_mwh": 9212
+  },
+  {
+    "hora": 17,
+    "demanda_mwh": 9053
+  },
+  {
+    "hora": 18,
+    "demanda_mwh": 9177
+  },
+  {
+    "hora": 19,
+    "demanda_mwh": 9642
+  },
+  {
+    "hora": 20,
+    "demanda_mwh": 9583
+  },
+  {
+    "hora": 21,
+    "demanda_mwh": 9308
+  },
+  {
+    "hora": 22,
+    "demanda_mwh": 8834
+  },
+  {
+    "hora": -1,
+    "demanda_mwh": 8364
+  },
+  {
+    "hora": 0,
+    "demanda_mwh": 8021
+  },
+  {
+    "hora": 1,
+    "demanda_mwh": 7842
+  },
+  {
+    "hora": 2,
+    "demanda_mwh": 7679
+  },
+  {
+    "hora": 3,
+    "demanda_mwh": 7614
+  },
+  {
+    "hora": 4,
+    "demanda_mwh": 7771
+  },
+  {
+    "hora": 5,
+    "demanda_mwh": 8320
+  },
+  {
+    "hora": 6,
+    "demanda_mwh": 8734
+  },
+  {
+    "hora": 7,
+    "demanda_mwh": 9093
+  },
+  {
+    "hora": 8,
+    "demanda_mwh": 9424
+  },
+  {
+    "hora": 9,
+    "demanda_mwh": 9491
+  },
+  {
+    "hora": 10,
+    "demanda_mwh": 9529
+  },
+  {
+    "hora": 11,
+    "demanda_mwh": 9657
+  },
+  {
+    "hora": 12,
+    "demanda_mwh": 9730
+  },
+  {
+    "hora": 13,
+    "demanda_mwh": 9782
+  },
+  {
+    "hora": 14,
+    "demanda_mwh": 9752
+  },
+  {
+    "hora": 15,
+    "demanda_mwh": 9698
+  },
+  {
+    "hora": 16,
+    "demanda_mwh": 9488
+  },
+  {
+    "hora": 17,
+    "demanda_mwh": 9312
+  },
+  {
+    "hora": 18,
+    "demanda_mwh": 9408
+  },
+  {
+    "hora": 19,
+    "demanda_mwh": 9830
+  },
+  {
+    "hora": 20,
+    "demanda_mwh": 9789
+  },
+  {
+    "hora": 21,
+    "demanda_mwh": 9461
+  },
+  {
+    "hora": 22,
+    "demanda_mwh": 8993
+  },
+  {
+    "hora": -1,
+    "demanda_mwh": 8525
+  },
+  {
+    "hora": 0,
+    "demanda_mwh": 8143
+  },
+  {
+    "hora": 1,
+    "demanda_mwh": 7906
+  },
+  {
+    "hora": 2,
+    "demanda_mwh": 7787
+  },
+  {
+    "hora": 3,
+    "demanda_mwh": 7742
+  },
+  {
+    "hora": 4,
+    "demanda_mwh": 7830
+  },
+  {
+    "hora": 5,
+    "demanda_mwh": 8319
+  },
+  {
+    "hora": 6,
+    "demanda_mwh": 8683
+  },
+  {
+    "hora": 7,
+    "demanda_mwh": 9042
+  },
+  {
+    "hora": 8,
+    "demanda_mwh": 9397
+  },
+  {
+    "hora": 9,
+    "demanda_mwh": 9534
+  },
+  {
+    "hora": 10,
+    "demanda_mwh": 9560
+  },
+  {
+    "hora": 11,
+    "demanda_mwh": 9595
+  },
+  {
+    "hora": 12,
+    "demanda_mwh": 9581
+  },
+  {
+    "hora": 13,
+    "demanda_mwh": 9585
+  },
+  {
+    "hora": 14,
+    "demanda_mwh": 9466
+  },
+  {
+    "hora": 15,
+    "demanda_mwh": 9322
+  },
+  {
+    "hora": 16,
+    "demanda_mwh": 9122
+  },
+  {
+    "hora": 17,
+    "demanda_mwh": 9082
+  },
+  {
+    "hora": 18,
+    "demanda_mwh": 9199
+  },
+  {
+    "hora": 19,
+    "demanda_mwh": 9610
+  },
+  {
+    "hora": 20,
+    "demanda_mwh": 9509
+  },
+  {
+    "hora": 21,
+    "demanda_mwh": 9261
+  },
+  {
+    "hora": 22,
+    "demanda_mwh": 8926
+  },
+  {
+    "hora": -1,
+    "demanda_mwh": 8548
+  },
+  {
+    "hora": 0,
+    "demanda_mwh": 8147
+  },
+  {
+    "hora": 1,
+    "demanda_mwh": 7867
+  },
+  {
+    "hora": 2,
+    "demanda_mwh": 7738
+  },
+  {
+    "hora": 3,
+    "demanda_mwh": 7679
+  },
+  {
+    "hora": 4,
+    "demanda_mwh": 7653
+  },
+  {
+    "hora": 5,
+    "demanda_mwh": 7722
+  },
+  {
+    "hora": 6,
+    "demanda_mwh": 7799
+  },
+  {
+    "hora": 7,
+    "demanda_mwh": 8150
+  },
+  {
+    "hora": 8,
+    "demanda_mwh": 8576
+  },
+  {
+    "hora": 9,
+    "demanda_mwh": 8894
+  },
+  {
+    "hora": 10,
+    "demanda_mwh": 8960
+  },
+  {
+    "hora": 11,
+    "demanda_mwh": 9048
+  },
+  {
+    "hora": 12,
+    "demanda_mwh": 9029
+  },
+  {
+    "hora": 13,
+    "demanda_mwh": 8924
+  },
+  {
+    "hora": 14,
+    "demanda_mwh": 8772
+  },
+  {
+    "hora": 15,
+    "demanda_mwh": 8616
+  },
+  {
+    "hora": 16,
+    "demanda_mwh": 8510
+  },
+  {
+    "hora": 17,
+    "demanda_mwh": 8528
+  },
+  {
+    "hora": 18,
+    "demanda_mwh": 8628
+  },
+  {
+    "hora": 19,
+    "demanda_mwh": 9111
+  },
+  {
+    "hora": 20,
+    "demanda_mwh": 9094
+  },
+  {
+    "hora": 21,
+    "demanda_mwh": 8861
+  },
+  {
+    "hora": 22,
+    "demanda_mwh": 8527
+  },
+  {
+    "hora": -1,
+    "demanda_mwh": 8128
+  },
+  {
+    "hora": 0,
+    "demanda_mwh": 7767
+  },
+  {
+    "hora": 1,
+    "demanda_mwh": 7486
+  },
+  {
+    "hora": 2,
+    "demanda_mwh": 7290
+  },
+  {
+    "hora": 3,
+    "demanda_mwh": 7228
+  },
+  {
+    "hora": 4,
+    "demanda_mwh": 7154
+  },
+  {
+    "hora": 5,
+    "demanda_mwh": 7138
+  },
+  {
+    "hora": 6,
+    "demanda_mwh": 7002
+  },
+  {
+    "hora": 7,
+    "demanda_mwh": 7209
+  },
+  {
+    "hora": 8,
+    "demanda_mwh": 7582
+  },
+  {
+    "hora": 9,
+    "demanda_mwh": 7868
+  },
+  {
+    "hora": 10,
+    "demanda_mwh": 8002
+  },
+  {
+    "hora": 11,
+    "demanda_mwh": 8154
+  },
+  {
+    "hora": 12,
+    "demanda_mwh": 8281
+  },
+  {
+    "hora": 13,
+    "demanda_mwh": 8236
+  },
+  {
+    "hora": 14,
+    "demanda_mwh": 8157
+  },
+  {
+    "hora": 15,
+    "demanda_mwh": 8080
+  },
+  {
+    "hora": 16,
+    "demanda_mwh": 8070
+  },
+  {
+    "hora": 17,
+    "demanda_mwh": 8131
+  },
+  {
+    "hora": 18,
+    "demanda_mwh": 8358
+  },
+  {
+    "hora": 19,
+    "demanda_mwh": 9009
+  },
+  {
+    "hora": 20,
+    "demanda_mwh": 9063
+  },
+  {
+    "hora": 21,
+    "demanda_mwh": 8782
+  },
+  {
+    "hora": 22,
+    "demanda_mwh": 8384
+  },
+  {
+    "hora": -1,
+    "demanda_mwh": 7942
+  },
+  {
+    "hora": 0,
+    "demanda_mwh": 7610
+  },
+  {
+    "hora": 1,
+    "demanda_mwh": 7439
+  },
+  {
+    "hora": 2,
+    "demanda_mwh": 7330
+  },
+  {
+    "hora": 3,
+    "demanda_mwh": 7313
+  },
+  {
+    "hora": 4,
+    "demanda_mwh": 7441
+  },
+  {
+    "hora": 5,
+    "demanda_mwh": 8023
+  },
+  {
+    "hora": 6,
+    "demanda_mwh": 8473
+  },
+  {
+    "hora": 7,
+    "demanda_mwh": 8885
+  },
+  {
+    "hora": 8,
+    "demanda_mwh": 9284
+  },
+  {
+    "hora": 9,
+    "demanda_mwh": 9416
+  },
+  {
+    "hora": 10,
+    "demanda_mwh": 9409
+  },
+  {
+    "hora": 11,
+    "demanda_mwh": 9439
+  },
+  {
+    "hora": 12,
+    "demanda_mwh": 9439
+  },
+  {
+    "hora": 13,
+    "demanda_mwh": 9517
+  },
+  {
+    "hora": 14,
+    "demanda_mwh": 9500
+  },
+  {
+    "hora": 15,
+    "demanda_mwh": 9461
+  },
+  {
+    "hora": 16,
+    "demanda_mwh": 9275
+  },
+  {
+    "hora": 17,
+    "demanda_mwh": 9028
+  },
+  {
+    "hora": 18,
+    "demanda_mwh": 9147
+  },
+  {
+    "hora": 19,
+    "demanda_mwh": 9609
+  },
+  {
+    "hora": 20,
+    "demanda_mwh": 9499
+  },
+  {
+    "hora": 21,
+    "demanda_mwh": 9069
+  },
+  {
+    "hora": 22,
+    "demanda_mwh": 8625
+  },
+  {
+    "hora": -1,
+    "demanda_mwh": 8178
+  },
+  {
+    "hora": 0,
+    "demanda_mwh": 7811
+  },
+  {
+    "hora": 1,
+    "demanda_mwh": 7607
+  },
+  {
+    "hora": 2,
+    "demanda_mwh": 7484
+  },
+  {
+    "hora": 3,
+    "demanda_mwh": 7442
+  },
+  {
+    "hora": 4,
+    "demanda_mwh": 7566
+  },
+  {
+    "hora": 5,
+    "demanda_mwh": 8090
+  },
+  {
+    "hora": 6,
+    "demanda_mwh": 8508
+  },
+  {
+    "hora": 7,
+    "demanda_mwh": 8915
+  },
+  {
+    "hora": 8,
+    "demanda_mwh": 9238
+  },
+  {
+    "hora": 9,
+    "demanda_mwh": 9336
+  },
+  {
+    "hora": 10,
+    "demanda_mwh": 9434
+  },
+  {
+    "hora": 11,
+    "demanda_mwh": 9414
+  },
+  {
+    "hora": 12,
+    "demanda_mwh": 9438
+  },
+  {
+    "hora": 13,
+    "demanda_mwh": 9542
+  },
+  {
+    "hora": 14,
+    "demanda_mwh": 9460
+  },
+  {
+    "hora": 15,
+    "demanda_mwh": 9359
+  },
+  {
+    "hora": 16,
+    "demanda_mwh": 9223
+  },
+  {
+    "hora": 17,
+    "demanda_mwh": 9076
+  },
+  {
+    "hora": 18,
+    "demanda_mwh": 9234
+  },
+  {
+    "hora": 19,
+    "demanda_mwh": 9643
+  },
+  {
+    "hora": 20,
+    "demanda_mwh": 9554
+  },
+  {
+    "hora": 21,
+    "demanda_mwh": 9210
+  },
+  {
+    "hora": 22,
+    "demanda_mwh": 8693
+  },
+  {
+    "hora": -1,
+    "demanda_mwh": 8156
+  },
+  {
+    "hora": 0,
+    "demanda_mwh": 7857
+  },
+  {
+    "hora": 1,
+    "demanda_mwh": 7637
+  },
+  {
+    "hora": 2,
+    "demanda_mwh": 7535
+  },
+  {
+    "hora": 3,
+    "demanda_mwh": 7544
+  },
+  {
+    "hora": 4,
+    "demanda_mwh": 7757
+  },
+  {
+    "hora": 5,
+    "demanda_mwh": 8241
+  },
+  {
+    "hora": 6,
+    "demanda_mwh": 8647
+  },
+  {
+    "hora": 7,
+    "demanda_mwh": 9047
+  },
+  {
+    "hora": 8,
+    "demanda_mwh": 9438
+  },
+  {
+    "hora": 9,
+    "demanda_mwh": 9585
+  },
+  {
+    "hora": 10,
+    "demanda_mwh": 9591
+  },
+  {
+    "hora": 11,
+    "demanda_mwh": 9501
+  },
+  {
+    "hora": 12,
+    "demanda_mwh": 9433
+  },
+  {
+    "hora": 13,
+    "demanda_mwh": 9395
+  },
+  {
+    "hora": 14,
+    "demanda_mwh": 9391
+  },
+  {
+    "hora": 15,
+    "demanda_mwh": 9318
+  },
+  {
+    "hora": 16,
+    "demanda_mwh": 9107
+  },
+  {
+    "hora": 17,
+    "demanda_mwh": 9008
+  },
+  {
+    "hora": 18,
+    "demanda_mwh": 9141
+  },
+  {
+    "hora": 19,
+    "demanda_mwh": 9622
+  },
+  {
+    "hora": 20,
+    "demanda_mwh": 9620
+  },
+  {
+    "hora": 21,
+    "demanda_mwh": 9349
+  },
+  {
+    "hora": 22,
+    "demanda_mwh": 8958
+  },
+  {
+    "hora": -1,
+    "demanda_mwh": 8479
+  },
+  {
+    "hora": 0,
+    "demanda_mwh": 8116
+  },
+  {
+    "hora": 1,
+    "demanda_mwh": 7922
+  },
+  {
+    "hora": 2,
+    "demanda_mwh": 7805
+  },
+  {
+    "hora": 3,
+    "demanda_mwh": 7759
+  },
+  {
+    "hora": 4,
+    "demanda_mwh": 7862
+  },
+  {
+    "hora": 5,
+    "demanda_mwh": 8364
+  },
+  {
+    "hora": 6,
+    "demanda_mwh": 8765
+  },
+  {
+    "hora": 7,
+    "demanda_mwh": 9188
+  },
+  {
+    "hora": 8,
+    "demanda_mwh": 9535
+  },
+  {
+    "hora": 9,
+    "demanda_mwh": 9612
+  },
+  {
+    "hora": 10,
+    "demanda_mwh": 9628
+  },
+  {
+    "hora": 11,
+    "demanda_mwh": 9618
+  },
+  {
+    "hora": 12,
+    "demanda_mwh": 9647
+  },
+  {
+    "hora": 13,
+    "demanda_mwh": 9655
+  },
+  {
+    "hora": 14,
+    "demanda_mwh": 9636
+  },
+  {
+    "hora": 15,
+    "demanda_mwh": 9604
+  },
+  {
+    "hora": 16,
+    "demanda_mwh": 9418
+  },
+  {
+    "hora": 17,
+    "demanda_mwh": 9204
+  },
+  {
+    "hora": 18,
+    "demanda_mwh": 9214
+  },
+  {
+    "hora": 19,
+    "demanda_mwh": 9653
+  },
+  {
+    "hora": 20,
+    "demanda_mwh": 9660
+  },
+  {
+    "hora": 21,
+    "demanda_mwh": 9373
+  },
+  {
+    "hora": 22,
+    "demanda_mwh": 8936
+  },
+  {
+    "hora": -1,
+    "demanda_mwh": 8492
+  },
+  {
+    "hora": 0,
+    "demanda_mwh": 8123
+  },
+  {
+    "hora": 1,
+    "demanda_mwh": 7896
+  },
+  {
+    "hora": 2,
+    "demanda_mwh": 7778
+  },
+  {
+    "hora": 3,
+    "demanda_mwh": 7779
+  },
+  {
+    "hora": 4,
+    "demanda_mwh": 7919
+  },
+  {
+    "hora": 5,
+    "demanda_mwh": 8300
+  },
+  {
+    "hora": 6,
+    "demanda_mwh": 8651
+  },
+  {
+    "hora": 7,
+    "demanda_mwh": 9156
+  },
+  {
+    "hora": 8,
+    "demanda_mwh": 9587
+  },
+  {
+    "hora": 9,
+    "demanda_mwh": 9764
+  },
+  {
+    "hora": 10,
+    "demanda_mwh": 9779
+  },
+  {
+    "hora": 11,
+    "demanda_mwh": 9773
+  },
+  {
+    "hora": 12,
+    "demanda_mwh": 9838
+  },
+  {
+    "hora": 13,
+    "demanda_mwh": 9854
+  },
+  {
+    "hora": 14,
+    "demanda_mwh": 9648
+  },
+  {
+    "hora": 15,
+    "demanda_mwh": 9506
+  },
+  {
+    "hora": 16,
+    "demanda_mwh": 9397
+  },
+  {
+    "hora": 17,
+    "demanda_mwh": 9298
+  },
+  {
+    "hora": 18,
+    "demanda_mwh": 9273
+  },
+  {
+    "hora": 19,
+    "demanda_mwh": 9685
+  },
+  {
+    "hora": 20,
+    "demanda_mwh": 9661
+  },
+  {
+    "hora": 21,
+    "demanda_mwh": 9406
+  },
+  {
+    "hora": 22,
+    "demanda_mwh": 9043
+  },
+  {
+    "hora": -1,
+    "demanda_mwh": 8624
+  },
+  {
+    "hora": 0,
+    "demanda_mwh": 8232
+  },
+  {
+    "hora": 1,
+    "demanda_mwh": 7987
+  },
+  {
+    "hora": 2,
+    "demanda_mwh": 7834
+  },
+  {
+    "hora": 3,
+    "demanda_mwh": 7707
+  },
+  {
+    "hora": 4,
+    "demanda_mwh": 7689
+  },
+  {
+    "hora": 5,
+    "demanda_mwh": 7778
+  },
+  {
+    "hora": 6,
+    "demanda_mwh": 7780
+  },
+  {
+    "hora": 7,
+    "demanda_mwh": 8179
+  },
+  {
+    "hora": 8,
+    "demanda_mwh": 8624
+  },
+  {
+    "hora": 9,
+    "demanda_mwh": 8854
+  },
+  {
+    "hora": 10,
+    "demanda_mwh": 8943
+  },
+  {
+    "hora": 11,
+    "demanda_mwh": 9090
+  },
+  {
+    "hora": 12,
+    "demanda_mwh": 9203
+  },
+  {
+    "hora": 13,
+    "demanda_mwh": 9087
+  },
+  {
+    "hora": 14,
+    "demanda_mwh": 9025
+  },
+  {
+    "hora": 15,
+    "demanda_mwh": 8844
+  },
+  {
+    "hora": 16,
+    "demanda_mwh": 8753
+  },
+  {
+    "hora": 17,
+    "demanda_mwh": 8734
+  },
+  {
+    "hora": 18,
+    "demanda_mwh": 8770
+  },
+  {
+    "hora": 19,
+    "demanda_mwh": 9127
+  },
+  {
+    "hora": 20,
+    "demanda_mwh": 9086
+  },
+  {
+    "hora": 21,
+    "demanda_mwh": 8840
+  },
+  {
+    "hora": 22,
+    "demanda_mwh": 8530
+  },
+  {
+    "hora": -1,
+    "demanda_mwh": 8149
+  },
+  {
+    "hora": 0,
+    "demanda_mwh": 7811
+  },
+  {
+    "hora": 1,
+    "demanda_mwh": 7546
+  },
+  {
+    "hora": 2,
+    "demanda_mwh": 7332
+  },
+  {
+    "hora": 3,
+    "demanda_mwh": 7237
+  },
+  {
+    "hora": 4,
+    "demanda_mwh": 7210
+  },
+  {
+    "hora": 5,
+    "demanda_mwh": 7253
+  },
+  {
+    "hora": 6,
+    "demanda_mwh": 7180
+  },
+  {
+    "hora": 7,
+    "demanda_mwh": 7395
+  },
+  {
+    "hora": 8,
+    "demanda_mwh": 7908
+  },
+  {
+    "hora": 9,
+    "demanda_mwh": 8237
+  },
+  {
+    "hora": 10,
+    "demanda_mwh": 8468
+  },
+  {
+    "hora": 11,
+    "demanda_mwh": 8643
+  },
+  {
+    "hora": 12,
+    "demanda_mwh": 8772
+  },
+  {
+    "hora": 13,
+    "demanda_mwh": 8763
+  },
+  {
+    "hora": 14,
+    "demanda_mwh": 8727
+  },
+  {
+    "hora": 15,
+    "demanda_mwh": 8601
+  },
+  {
+    "hora": 16,
+    "demanda_mwh": 8543
+  },
+  {
+    "hora": 17,
+    "demanda_mwh": 8570
+  },
+  {
+    "hora": 18,
+    "demanda_mwh": 8750
+  },
+  {
+    "hora": 19,
+    "demanda_mwh": 9282
+  },
+  {
+    "hora": 20,
+    "demanda_mwh": 9377
+  },
+  {
+    "hora": 21,
+    "demanda_mwh": 9107
+  },
+  {
+    "hora": 22,
+    "demanda_mwh": 8651
+  },
+  {
+    "hora": -1,
+    "demanda_mwh": 8188
+  },
+  {
+    "hora": 0,
+    "demanda_mwh": 7903
+  },
+  {
+    "hora": 1,
+    "demanda_mwh": 7708
+  },
+  {
+    "hora": 2,
+    "demanda_mwh": 7591
+  },
+  {
+    "hora": 3,
+    "demanda_mwh": 7598
+  },
+  {
+    "hora": 4,
+    "demanda_mwh": 7772
+  },
+  {
+    "hora": 5,
+    "demanda_mwh": 8283
+  },
+  {
+    "hora": 6,
+    "demanda_mwh": 8684
+  },
+  {
+    "hora": 7,
+    "demanda_mwh": 9157
+  },
+  {
+    "hora": 8,
+    "demanda_mwh": 9508
+  },
+  {
+    "hora": 9,
+    "demanda_mwh": 9671
+  },
+  {
+    "hora": 10,
+    "demanda_mwh": 9735
+  },
+  {
+    "hora": 11,
+    "demanda_mwh": 9760
+  },
+  {
+    "hora": 12,
+    "demanda_mwh": 9806
+  },
+  {
+    "hora": 13,
+    "demanda_mwh": 9889
+  },
+  {
+    "hora": 14,
+    "demanda_mwh": 9718
+  },
+  {
+    "hora": 15,
+    "demanda_mwh": 9609
+  },
+  {
+    "hora": 16,
+    "demanda_mwh": 9637
+  },
+  {
+    "hora": 17,
+    "demanda_mwh": 9485
+  },
+  {
+    "hora": 18,
+    "demanda_mwh": 9558
+  },
+  {
+    "hora": 19,
+    "demanda_mwh": 9910
+  },
+  {
+    "hora": 20,
+    "demanda_mwh": 9855
+  },
+  {
+    "hora": 21,
+    "demanda_mwh": 9490
+  },
+  {
+    "hora": 22,
+    "demanda_mwh": 9024
+  },
+  {
+    "hora": -1,
+    "demanda_mwh": 8504
+  },
+  {
+    "hora": 0,
+    "demanda_mwh": 8153
+  },
+  {
+    "hora": 1,
+    "demanda_mwh": 7949
+  },
+  {
+    "hora": 2,
+    "demanda_mwh": 7826
+  },
+  {
+    "hora": 3,
+    "demanda_mwh": 7772
+  },
+  {
+    "hora": 4,
+    "demanda_mwh": 7880
+  },
+  {
+    "hora": 5,
+    "demanda_mwh": 8331
+  },
+  {
+    "hora": 6,
+    "demanda_mwh": 8690
+  },
+  {
+    "hora": 7,
+    "demanda_mwh": 9123
+  },
+  {
+    "hora": 8,
+    "demanda_mwh": 9364
+  },
+  {
+    "hora": 9,
+    "demanda_mwh": 9427
+  },
+  {
+    "hora": 10,
+    "demanda_mwh": 9458
+  },
+  {
+    "hora": 11,
+    "demanda_mwh": 9486
+  },
+  {
+    "hora": 12,
+    "demanda_mwh": 9587
+  },
+  {
+    "hora": 13,
+    "demanda_mwh": 9644
+  },
+  {
+    "hora": 14,
+    "demanda_mwh": 9606
+  },
+  {
+    "hora": 15,
+    "demanda_mwh": 9555
+  },
+  {
+    "hora": 16,
+    "demanda_mwh": 9451
+  },
+  {
+    "hora": 17,
+    "demanda_mwh": 9286
+  },
+  {
+    "hora": 18,
+    "demanda_mwh": 9315
+  },
+  {
+    "hora": 19,
+    "demanda_mwh": 9696
+  },
+  {
+    "hora": 20,
+    "demanda_mwh": 9722
+  },
+  {
+    "hora": 21,
+    "demanda_mwh": 9408
+  },
+  {
+    "hora": 22,
+    "demanda_mwh": 8921
+  },
+  {
+    "hora": -1,
+    "demanda_mwh": 8425
+  },
+  {
+    "hora": 0,
+    "demanda_mwh": 8019
+  },
+  {
+    "hora": 1,
+    "demanda_mwh": 7844
+  },
+  {
+    "hora": 2,
+    "demanda_mwh": 7771
+  },
+  {
+    "hora": 3,
+    "demanda_mwh": 7714
+  },
+  {
+    "hora": 4,
+    "demanda_mwh": 7791
+  },
+  {
+    "hora": 5,
+    "demanda_mwh": 8191
+  },
+  {
+    "hora": 6,
+    "demanda_mwh": 8593
+  },
+  {
+    "hora": 7,
+    "demanda_mwh": 9035
+  },
+  {
+    "hora": 8,
+    "demanda_mwh": 9253
+  },
+  {
+    "hora": 9,
+    "demanda_mwh": 9316
+  },
+  {
+    "hora": 10,
+    "demanda_mwh": 9385
+  },
+  {
+    "hora": 11,
+    "demanda_mwh": 9473
+  },
+  {
+    "hora": 12,
+    "demanda_mwh": 9570
+  },
+  {
+    "hora": 13,
+    "demanda_mwh": 9674
+  },
+  {
+    "hora": 14,
+    "demanda_mwh": 9648
+  },
+  {
+    "hora": 15,
+    "demanda_mwh": 9592
+  },
+  {
+    "hora": 16,
+    "demanda_mwh": 9387
+  },
+  {
+    "hora": 17,
+    "demanda_mwh": 9184
+  },
+  {
+    "hora": 18,
+    "demanda_mwh": 9241
+  },
+  {
+    "hora": 19,
+    "demanda_mwh": 9637
+  },
+  {
+    "hora": 20,
+    "demanda_mwh": 9582
+  },
+  {
+    "hora": 21,
+    "demanda_mwh": 9246
+  },
+  {
+    "hora": 22,
+    "demanda_mwh": 8855
+  },
+  {
+    "hora": -1,
+    "demanda_mwh": 8493
+  },
+  {
+    "hora": 0,
+    "demanda_mwh": 8161
+  },
+  {
+    "hora": 1,
+    "demanda_mwh": 7930
+  },
+  {
+    "hora": 2,
+    "demanda_mwh": 7795
+  },
+  {
+    "hora": 3,
+    "demanda_mwh": 7767
+  },
+  {
+    "hora": 4,
+    "demanda_mwh": 7819
+  },
+  {
+    "hora": 5,
+    "demanda_mwh": 8308
+  },
+  {
+    "hora": 6,
+    "demanda_mwh": 8671
+  },
+  {
+    "hora": 7,
+    "demanda_mwh": 9116
+  },
+  {
+    "hora": 8,
+    "demanda_mwh": 9541
+  },
+  {
+    "hora": 9,
+    "demanda_mwh": 9718
+  },
+  {
+    "hora": 10,
+    "demanda_mwh": 9730
+  },
+  {
+    "hora": 11,
+    "demanda_mwh": 9671
+  },
+  {
+    "hora": 12,
+    "demanda_mwh": 9723
+  },
+  {
+    "hora": 13,
+    "demanda_mwh": 9813
+  },
+  {
+    "hora": 14,
+    "demanda_mwh": 9772
+  },
+  {
+    "hora": 15,
+    "demanda_mwh": 9649
+  },
+  {
+    "hora": 16,
+    "demanda_mwh": 9476
+  },
+  {
+    "hora": 17,
+    "demanda_mwh": 9317
+  },
+  {
+    "hora": 18,
+    "demanda_mwh": 9413
+  },
+  {
+    "hora": 19,
+    "demanda_mwh": 9716
+  },
+  {
+    "hora": 20,
+    "demanda_mwh": 9703
+  },
+  {
+    "hora": 21,
+    "demanda_mwh": 9396
+  },
+  {
+    "hora": 22,
+    "demanda_mwh": 8968
+  },
+  {
+    "hora": -1,
+    "demanda_mwh": 8519
+  },
+  {
+    "hora": 0,
+    "demanda_mwh": 8170
+  },
+  {
+    "hora": 1,
+    "demanda_mwh": 7890
+  },
+  {
+    "hora": 2,
+    "demanda_mwh": 7766
+  },
+  {
+    "hora": 3,
+    "demanda_mwh": 7774
+  },
+  {
+    "hora": 4,
+    "demanda_mwh": 7874
+  },
+  {
+    "hora": 5,
+    "demanda_mwh": 8379
+  },
+  {
+    "hora": 6,
+    "demanda_mwh": 8761
+  },
+  {
+    "hora": 7,
+    "demanda_mwh": 9221
+  },
+  {
+    "hora": 8,
+    "demanda_mwh": 9605
+  },
+  {
+    "hora": 9,
+    "demanda_mwh": 9701
+  },
+  {
+    "hora": 10,
+    "demanda_mwh": 9774
+  },
+  {
+    "hora": 11,
+    "demanda_mwh": 9708
+  },
+  {
+    "hora": 12,
+    "demanda_mwh": 9710
+  },
+  {
+    "hora": 13,
+    "demanda_mwh": 9702
+  },
+  {
+    "hora": 14,
+    "demanda_mwh": 9586
+  },
+  {
+    "hora": 15,
+    "demanda_mwh": 9389
+  },
+  {
+    "hora": 16,
+    "demanda_mwh": 9195
+  },
+  {
+    "hora": 17,
+    "demanda_mwh": 9128
+  },
+  {
+    "hora": 18,
+    "demanda_mwh": 9216
+  },
+  {
+    "hora": 19,
+    "demanda_mwh": 9603
+  },
+  {
+    "hora": 20,
+    "demanda_mwh": 9607
+  },
+  {
+    "hora": 21,
+    "demanda_mwh": 9349
+  },
+  {
+    "hora": 22,
+    "demanda_mwh": 9010
+  },
+  {
+    "hora": -1,
+    "demanda_mwh": 8552
+  },
+  {
+    "hora": 0,
+    "demanda_mwh": 8214
+  },
+  {
+    "hora": 1,
+    "demanda_mwh": 7939
+  },
+  {
+    "hora": 2,
+    "demanda_mwh": 7838
+  },
+  {
+    "hora": 3,
+    "demanda_mwh": 7753
+  },
+  {
+    "hora": 4,
+    "demanda_mwh": 7773
+  },
+  {
+    "hora": 5,
+    "demanda_mwh": 7838
+  },
+  {
+    "hora": 6,
+    "demanda_mwh": 7875
+  },
+  {
+    "hora": 7,
+    "demanda_mwh": 8242
+  },
+  {
+    "hora": 8,
+    "demanda_mwh": 8646
+  },
+  {
+    "hora": 9,
+    "demanda_mwh": 8866
+  },
+  {
+    "hora": 10,
+    "demanda_mwh": 8914
+  },
+  {
+    "hora": 11,
+    "demanda_mwh": 8964
+  },
+  {
+    "hora": 12,
+    "demanda_mwh": 9043
+  },
+  {
+    "hora": 13,
+    "demanda_mwh": 8979
+  },
+  {
+    "hora": 14,
+    "demanda_mwh": 8864
+  },
+  {
+    "hora": 15,
+    "demanda_mwh": 8732
+  },
+  {
+    "hora": 16,
+    "demanda_mwh": 8686
+  },
+  {
+    "hora": 17,
+    "demanda_mwh": 8652
+  },
+  {
+    "hora": 18,
+    "demanda_mwh": 8710
+  },
+  {
+    "hora": 19,
+    "demanda_mwh": 9062
+  },
+  {
+    "hora": 20,
+    "demanda_mwh": 9098
+  },
+  {
+    "hora": 21,
+    "demanda_mwh": 8868
+  },
+  {
+    "hora": 22,
+    "demanda_mwh": 8567
+  },
+  {
+    "hora": -1,
+    "demanda_mwh": 8171
+  },
+  {
+    "hora": 0,
+    "demanda_mwh": 7832
+  },
+  {
+    "hora": 1,
+    "demanda_mwh": 7574
+  },
+  {
+    "hora": 2,
+    "demanda_mwh": 7408
+  },
+  {
+    "hora": 3,
+    "demanda_mwh": 7280
+  },
+  {
+    "hora": 4,
+    "demanda_mwh": 7237
+  },
+  {
+    "hora": 5,
+    "demanda_mwh": 7220
+  },
+  {
+    "hora": 6,
+    "demanda_mwh": 7125
+  },
+  {
+    "hora": 7,
+    "demanda_mwh": 7368
+  },
+  {
+    "hora": 8,
+    "demanda_mwh": 7672
+  },
+  {
+    "hora": 9,
+    "demanda_mwh": 7978
+  },
+  {
+    "hora": 10,
+    "demanda_mwh": 8165
+  },
+  {
+    "hora": 11,
+    "demanda_mwh": 8333
+  },
+  {
+    "hora": 12,
+    "demanda_mwh": 8563
+  },
+  {
+    "hora": 13,
+    "demanda_mwh": 8633
+  },
+  {
+    "hora": 14,
+    "demanda_mwh": 8517
+  },
+  {
+    "hora": 15,
+    "demanda_mwh": 8417
+  },
+  {
+    "hora": 16,
+    "demanda_mwh": 8422
+  },
+  {
+    "hora": 17,
+    "demanda_mwh": 8458
+  },
+  {
+    "hora": 18,
+    "demanda_mwh": 8681
+  },
+  {
+    "hora": 19,
+    "demanda_mwh": 9157
+  },
+  {
+    "hora": 20,
+    "demanda_mwh": 9292
+  },
+  {
+    "hora": 21,
+    "demanda_mwh": 9009
+  },
+  {
+    "hora": 22,
+    "demanda_mwh": 8581
+  },
+  {
+    "hora": -1,
+    "demanda_mwh": 8159
+  },
+  {
+    "hora": 0,
+    "demanda_mwh": 7845
+  },
+  {
+    "hora": 1,
+    "demanda_mwh": 7670
+  },
+  {
+    "hora": 2,
+    "demanda_mwh": 7585
+  },
+  {
+    "hora": 3,
+    "demanda_mwh": 7614
+  },
+  {
+    "hora": 4,
+    "demanda_mwh": 7751
+  },
+  {
+    "hora": 5,
+    "demanda_mwh": 8276
+  },
+  {
+    "hora": 6,
+    "demanda_mwh": 8733
+  },
+  {
+    "hora": 7,
+    "demanda_mwh": 9241
+  },
+  {
+    "hora": 8,
+    "demanda_mwh": 9628
+  },
+  {
+    "hora": 9,
+    "demanda_mwh": 9784
+  },
+  {
+    "hora": 10,
+    "demanda_mwh": 9830
+  },
+  {
+    "hora": 11,
+    "demanda_mwh": 9849
+  },
+  {
+    "hora": 12,
+    "demanda_mwh": 9838
+  },
+  {
+    "hora": 13,
+    "demanda_mwh": 9875
+  },
+  {
+    "hora": 14,
+    "demanda_mwh": 9885
+  },
+  {
+    "hora": 15,
+    "demanda_mwh": 9836
+  },
+  {
+    "hora": 16,
+    "demanda_mwh": 9718
+  },
+  {
+    "hora": 17,
+    "demanda_mwh": 9576
+  },
+  {
+    "hora": 18,
+    "demanda_mwh": 9602
+  },
+  {
+    "hora": 19,
+    "demanda_mwh": 9906
+  },
+  {
+    "hora": 20,
+    "demanda_mwh": 9899
+  },
+  {
+    "hora": 21,
+    "demanda_mwh": 9557
+  },
+  {
+    "hora": 22,
+    "demanda_mwh": 9105
+  },
+  {
+    "hora": -1,
+    "demanda_mwh": 8580
+  },
+  {
+    "hora": 0,
+    "demanda_mwh": 8302
+  },
+  {
+    "hora": 1,
+    "demanda_mwh": 8105
+  },
+  {
+    "hora": 2,
+    "demanda_mwh": 8009
+  },
+  {
+    "hora": 3,
+    "demanda_mwh": 7975
+  },
+  {
+    "hora": 4,
+    "demanda_mwh": 8049
+  },
+  {
+    "hora": 5,
+    "demanda_mwh": 8504
+  },
+  {
+    "hora": 6,
+    "demanda_mwh": 8897
+  },
+  {
+    "hora": 7,
+    "demanda_mwh": 9327
+  },
+  {
+    "hora": 8,
+    "demanda_mwh": 9666
+  },
+  {
+    "hora": 9,
+    "demanda_mwh": 9755
+  },
+  {
+    "hora": 10,
+    "demanda_mwh": 9818
+  },
+  {
+    "hora": 11,
+    "demanda_mwh": 9837
+  },
+  {
+    "hora": 12,
+    "demanda_mwh": 9765
+  },
+  {
+    "hora": 13,
+    "demanda_mwh": 9873
+  },
+  {
+    "hora": 14,
+    "demanda_mwh": 9958
+  },
+  {
+    "hora": 15,
+    "demanda_mwh": 9918
+  },
+  {
+    "hora": 16,
+    "demanda_mwh": 9727
+  },
+  {
+    "hora": 17,
+    "demanda_mwh": 9585
+  },
+  {
+    "hora": 18,
+    "demanda_mwh": 9567
+  },
+  {
+    "hora": 19,
+    "demanda_mwh": 9854
+  },
+  {
+    "hora": 20,
+    "demanda_mwh": 9836
+  },
+  {
+    "hora": 21,
+    "demanda_mwh": 9538
+  },
+  {
+    "hora": 22,
+    "demanda_mwh": 9058
+  },
+  {
+    "hora": -1,
+    "demanda_mwh": 8541
+  },
+  {
+    "hora": 0,
+    "demanda_mwh": 8166
+  },
+  {
+    "hora": 1,
+    "demanda_mwh": 7881
+  },
+  {
+    "hora": 2,
+    "demanda_mwh": 7764
+  },
+  {
+    "hora": 3,
+    "demanda_mwh": 7727
+  },
+  {
+    "hora": 4,
+    "demanda_mwh": 7804
+  },
+  {
+    "hora": 5,
+    "demanda_mwh": 8253
+  },
+  {
+    "hora": 6,
+    "demanda_mwh": 8581
+  },
+  {
+    "hora": 7,
+    "demanda_mwh": 9033
+  },
+  {
+    "hora": 8,
+    "demanda_mwh": 9340
+  },
+  {
+    "hora": 9,
+    "demanda_mwh": 9421
+  },
+  {
+    "hora": 10,
+    "demanda_mwh": 9493
+  },
+  {
+    "hora": 11,
+    "demanda_mwh": 9549
+  },
+  {
+    "hora": 12,
+    "demanda_mwh": 9637
+  },
+  {
+    "hora": 13,
+    "demanda_mwh": 9795
+  },
+  {
+    "hora": 14,
+    "demanda_mwh": 9742
+  },
+  {
+    "hora": 15,
+    "demanda_mwh": 9806
+  },
+  {
+    "hora": 16,
+    "demanda_mwh": 9647
+  },
+  {
+    "hora": 17,
+    "demanda_mwh": 9307
+  },
+  {
+    "hora": 18,
+    "demanda_mwh": 9209
+  },
+  {
+    "hora": 19,
+    "demanda_mwh": 9504
+  },
+  {
+    "hora": 20,
+    "demanda_mwh": 9529
+  },
+  {
+    "hora": 21,
+    "demanda_mwh": 9284
+  },
+  {
+    "hora": 22,
+    "demanda_mwh": 8921
+  },
+  {
+    "hora": -1,
+    "demanda_mwh": 8459
+  },
+  {
+    "hora": 0,
+    "demanda_mwh": 8186
+  },
+  {
+    "hora": 1,
+    "demanda_mwh": 7978
+  },
+  {
+    "hora": 2,
+    "demanda_mwh": 7814
+  },
+  {
+    "hora": 3,
+    "demanda_mwh": 7726
+  },
+  {
+    "hora": 4,
+    "demanda_mwh": 7855
+  },
+  {
+    "hora": 5,
+    "demanda_mwh": 8328
+  },
+  {
+    "hora": 6,
+    "demanda_mwh": 8685
+  },
+  {
+    "hora": 7,
+    "demanda_mwh": 9183
+  },
+  {
+    "hora": 8,
+    "demanda_mwh": 9570
+  },
+  {
+    "hora": 9,
+    "demanda_mwh": 9668
+  },
+  {
+    "hora": 10,
+    "demanda_mwh": 9763
+  },
+  {
+    "hora": 11,
+    "demanda_mwh": 9830
+  },
+  {
+    "hora": 12,
+    "demanda_mwh": 9840
+  },
+  {
+    "hora": 13,
+    "demanda_mwh": 9890
+  },
+  {
+    "hora": 14,
+    "demanda_mwh": 9870
+  },
+  {
+    "hora": 15,
+    "demanda_mwh": 9796
+  },
+  {
+    "hora": 16,
+    "demanda_mwh": 9549
+  },
+  {
+    "hora": 17,
+    "demanda_mwh": 9319
+  },
+  {
+    "hora": 18,
+    "demanda_mwh": 9294
+  },
+  {
+    "hora": 19,
+    "demanda_mwh": 9485
+  },
+  {
+    "hora": 20,
+    "demanda_mwh": 9543
+  },
+  {
+    "hora": 21,
+    "demanda_mwh": 9203
+  },
+  {
+    "hora": 22,
+    "demanda_mwh": 8812
+  },
+  {
+    "hora": -1,
+    "demanda_mwh": 8375
+  },
+  {
+    "hora": 0,
+    "demanda_mwh": 8020
+  },
+  {
+    "hora": 1,
+    "demanda_mwh": 7750
+  },
+  {
+    "hora": 2,
+    "demanda_mwh": 7512
+  },
+  {
+    "hora": 3,
+    "demanda_mwh": 7407
+  },
+  {
+    "hora": 4,
+    "demanda_mwh": 7378
+  },
+  {
+    "hora": 5,
+    "demanda_mwh": 7399
+  },
+  {
+    "hora": 6,
+    "demanda_mwh": 7436
+  },
+  {
+    "hora": 7,
+    "demanda_mwh": 7785
+  },
+  {
+    "hora": 8,
+    "demanda_mwh": 8173
+  },
+  {
+    "hora": 9,
+    "demanda_mwh": 8492
+  },
+  {
+    "hora": 10,
+    "demanda_mwh": 8588
+  },
+  {
+    "hora": 11,
+    "demanda_mwh": 8753
+  },
+  {
+    "hora": 12,
+    "demanda_mwh": 8862
+  },
+  {
+    "hora": 13,
+    "demanda_mwh": 8816
+  },
+  {
+    "hora": 14,
+    "demanda_mwh": 8641
+  },
+  {
+    "hora": 15,
+    "demanda_mwh": 8485
+  },
+  {
+    "hora": 16,
+    "demanda_mwh": 8354
+  },
+  {
+    "hora": 17,
+    "demanda_mwh": 8323
+  },
+  {
+    "hora": 18,
+    "demanda_mwh": 8329
+  },
+  {
+    "hora": 19,
+    "demanda_mwh": 8669
+  },
+  {
+    "hora": 20,
+    "demanda_mwh": 8756
+  },
+  {
+    "hora": 21,
+    "demanda_mwh": 8554
+  },
+  {
+    "hora": 22,
+    "demanda_mwh": 8287
+  }
+]

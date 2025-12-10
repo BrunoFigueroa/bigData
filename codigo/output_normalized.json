@@ -1,0 +1,2102 @@
+[
+{
+  "dia": 0,
+  "hora": 20,
+  "demanda": 9374,
+  "produccion_no_hidraulica": 8685.33953846154,
+  "produccion_hidraulica": 569.5304615384616
+},
+{
+  "dia": 0,
+  "hora": 2,
+  "demanda": 7645,
+  "produccion_no_hidraulica": 8005.543427561838,
+  "produccion_hidraulica": 608.7865724381626
+},
+{
+  "dia": 0,
+  "hora": 1,
+  "demanda": 7748,
+  "produccion_no_hidraulica": 8140.166024464831,
+  "produccion_hidraulica": 530.3039755351681
+},
+{
+  "dia": 0,
+  "hora": 10,
+  "demanda": 9165,
+  "produccion_no_hidraulica": 7507.535000000001,
+  "produccion_hidraulica": 766.075
+},
+{
+  "dia": 0,
+  "hora": 23,
+  "demanda": 8176,
+  "produccion_no_hidraulica": 8803.77151193634,
+  "produccion_hidraulica": 493.20848806366047
+},
+{
+  "dia": 0,
+  "hora": 7,
+  "demanda": 8913,
+  "produccion_no_hidraulica": 7300.784668769716,
+  "produccion_hidraulica": 491.6353312302839
+},
+{
+  "dia": 0,
+  "hora": 21,
+  "demanda": 9107,
+  "produccion_no_hidraulica": 9256.059760191847,
+  "produccion_hidraulica": 466.3002398081535
+},
+{
+  "dia": 0,
+  "hora": 6,
+  "demanda": 8696,
+  "produccion_no_hidraulica": 7555.228524590164,
+  "produccion_hidraulica": 530.1914754098361
+},
+{
+  "dia": 1,
+  "hora": 11,
+  "demanda": 9149,
+  "produccion_no_hidraulica": 10129.361552511416,
+  "produccion_hidraulica": 484.65844748858444
+},
+{
+  "dia": 0,
+  "hora": 19,
+  "demanda": 9406,
+  "produccion_no_hidraulica": 8326.125581395348,
+  "produccion_hidraulica": 699.6744186046511
+},
+{
+  "dia": 1,
+  "hora": 8,
+  "demanda": 9038,
+  "produccion_no_hidraulica": 8862.051634615384,
+  "produccion_hidraulica": 447.5783653846154
+},
+{
+  "dia": 1,
+  "hora": 4,
+  "demanda": 7477,
+  "produccion_no_hidraulica": 7744.189090909091,
+  "produccion_hidraulica": 537.790909090909
+},
+{
+  "dia": 0,
+  "hora": 13,
+  "demanda": 9089,
+  "produccion_no_hidraulica": 8213.221167315176,
+  "produccion_hidraulica": 693.0988326848249
+},
+{
+  "dia": 2,
+  "hora": 1,
+  "demanda": 7750,
+  "produccion_no_hidraulica": 8802.770066225165,
+  "produccion_hidraulica": 624.3099337748345
+},
+{
+  "dia": 0,
+  "hora": 0,
+  "demanda": 7996,
+  "produccion_no_hidraulica": 8199.302727272729,
+  "produccion_hidraulica": 528.9872727272727
+},
+{
+  "dia": 1,
+  "hora": 9,
+  "demanda": 9170,
+  "produccion_no_hidraulica": 9454.218591224018,
+  "produccion_hidraulica": 457.8314087759815
+},
+{
+  "dia": 0,
+  "hora": 11,
+  "demanda": 9125,
+  "produccion_no_hidraulica": 7694.75628318584,
+  "produccion_hidraulica": 747.0637168141593
+},
+{
+  "dia": 0,
+  "hora": 3,
+  "demanda": 7629,
+  "produccion_no_hidraulica": 7698.1727510917035,
+  "produccion_hidraulica": 736.6672489082969
+},
+{
+  "dia": 0,
+  "hora": 15,
+  "demanda": 8935,
+  "produccion_no_hidraulica": 8289.295135135135,
+  "produccion_hidraulica": 693.6648648648647
+},
+{
+  "dia": 1,
+  "hora": 3,
+  "demanda": 7362,
+  "produccion_no_hidraulica": 7720.27492211838,
+  "produccion_hidraulica": 512.9750778816199
+},
+{
+  "dia": 0,
+  "hora": 5,
+  "demanda": 8279,
+  "produccion_no_hidraulica": 7627.667586206897,
+  "produccion_hidraulica": 565.0124137931034
+},
+{
+  "dia": 0,
+  "hora": 22,
+  "demanda": 8665,
+  "produccion_no_hidraulica": 9240.39315270936,
+  "produccion_hidraulica": 478.77684729064043
+},
+{
+  "dia": 3,
+  "hora": 13,
+  "demanda": 8787,
+  "produccion_no_hidraulica": 10391.219698996656,
+  "produccion_hidraulica": 744.8903010033445
+},
+{
+  "dia": 0,
+  "hora": 14,
+  "demanda": 9031,
+  "produccion_no_hidraulica": 8310.942992125985,
+  "produccion_hidraulica": 710.3370078740157
+},
+{
+  "dia": 1,
+  "hora": 0,
+  "demanda": 7773,
+  "produccion_no_hidraulica": 8492.370857142856,
+  "produccion_hidraulica": 514.6891428571428
+},
+{
+  "dia": 1,
+  "hora": 5,
+  "demanda": 8020,
+  "produccion_no_hidraulica": 7820.880215827337,
+  "produccion_hidraulica": 606.2697841726618
+},
+{
+  "dia": 2,
+  "hora": 8,
+  "demanda": 9367,
+  "produccion_no_hidraulica": 9311.914285714285,
+  "produccion_hidraulica": 465.5957142857143
+},
+{
+  "dia": 1,
+  "hora": 14,
+  "demanda": 9224,
+  "produccion_no_hidraulica": 10603.6408040201,
+  "produccion_hidraulica": 561.0391959798995
+},
+{
+  "dia": 1,
+  "hora": 6,
+  "demanda": 8450,
+  "produccion_no_hidraulica": 7947.985913978494,
+  "produccion_hidraulica": 613.7440860215053
+},
+{
+  "dia": 1,
+  "hora": 10,
+  "demanda": 9173,
+  "produccion_no_hidraulica": 9869.949069767443,
+  "produccion_hidraulica": 481.4609302325581
+},
+{
+  "dia": 1,
+  "hora": 2,
+  "demanda": 7410,
+  "produccion_no_hidraulica": 7896.542238805971,
+  "produccion_hidraulica": 501.3677611940298
+},
+{
+  "dia": 1,
+  "hora": 1,
+  "demanda": 7563,
+  "produccion_no_hidraulica": 8173.854857142856,
+  "produccion_hidraulica": 495.38514285714285
+},
+{
+  "dia": 3,
+  "hora": 23,
+  "demanda": 8006,
+  "produccion_no_hidraulica": 9585.846290322579,
+  "produccion_hidraulica": 840.8637096774193
+},
+{
+  "dia": 0,
+  "hora": 9,
+  "demanda": 9203,
+  "produccion_no_hidraulica": 7258.206267281105,
+  "produccion_hidraulica": 736.8737327188941
+},
+{
+  "dia": 0,
+  "hora": 16,
+  "demanda": 8733,
+  "produccion_no_hidraulica": 8220.927827715357,
+  "produccion_hidraulica": 665.6621722846443
+},
+{
+  "dia": 1,
+  "hora": 18,
+  "demanda": 9139,
+  "produccion_no_hidraulica": 10229.272988505747,
+  "produccion_hidraulica": 492.97701149425285
+},
+{
+  "dia": 0,
+  "hora": 4,
+  "demanda": 7722,
+  "produccion_no_hidraulica": 7657.788850574713,
+  "produccion_hidraulica": 635.5011494252874
+},
+{
+  "dia": 0,
+  "hora": 8,
+  "demanda": 9162,
+  "produccion_no_hidraulica": 7276.552061068703,
+  "produccion_hidraulica": 601.3679389312978
+},
+{
+  "dia": 2,
+  "hora": 4,
+  "demanda": 7663,
+  "produccion_no_hidraulica": 8275.23403508772,
+  "produccion_hidraulica": 624.5459649122807
+},
+{
+  "dia": 1,
+  "hora": 22,
+  "demanda": 8790,
+  "produccion_no_hidraulica": 10154.739179810724,
+  "produccion_hidraulica": 683.8208201892744
+},
+{
+  "dia": 2,
+  "hora": 0,
+  "demanda": 8001,
+  "produccion_no_hidraulica": 9302.531588785047,
+  "produccion_hidraulica": 618.1084112149532
+},
+{
+  "dia": 1,
+  "hora": 21,
+  "demanda": 9204,
+  "produccion_no_hidraulica": 10235.8596742671,
+  "produccion_hidraulica": 713.3003257328991
+},
+{
+  "dia": 2,
+  "hora": 9,
+  "demanda": 9423,
+  "produccion_no_hidraulica": 9796.598585131893,
+  "produccion_hidraulica": 493.53141486810546
+},
+{
+  "dia": 1,
+  "hora": 7,
+  "demanda": 8735,
+  "produccion_no_hidraulica": 8265.300246913579,
+  "produccion_hidraulica": 543.7697530864197
+},
+{
+  "dia": 4,
+  "hora": 12,
+  "demanda": 8669,
+  "produccion_no_hidraulica": 10544.986266666667,
+  "produccion_hidraulica": 594.0837333333334
+},
+{
+  "dia": 1,
+  "hora": 16,
+  "demanda": 9119,
+  "produccion_no_hidraulica": 10664.47090909091,
+  "produccion_hidraulica": 567.2590909090909
+},
+{
+  "dia": 2,
+  "hora": 18,
+  "demanda": 9155,
+  "produccion_no_hidraulica": 10162.841268436578,
+  "produccion_hidraulica": 637.1687315634218
+},
+{
+  "dia": 1,
+  "hora": 23,
+  "demanda": 8375,
+  "produccion_no_hidraulica": 9494.182716049381,
+  "produccion_hidraulica": 624.6172839506172
+},
+{
+  "dia": 2,
+  "hora": 11,
+  "demanda": 9497,
+  "produccion_no_hidraulica": 10341.640657596372,
+  "produccion_hidraulica": 491.2893424036281
+},
+{
+  "dia": 2,
+  "hora": 13,
+  "demanda": 9548,
+  "produccion_no_hidraulica": 10721.4542364532,
+  "produccion_hidraulica": 555.515763546798
+},
+{
+  "dia": 2,
+  "hora": 10,
+  "demanda": 9470,
+  "produccion_no_hidraulica": 10113.242402745997,
+  "produccion_hidraulica": 485.0475972540046
+},
+{
+  "dia": 0,
+  "hora": 12,
+  "demanda": 9089,
+  "produccion_no_hidraulica": 7998.718780487805,
+  "produccion_hidraulica": 707.851219512195
+},
+{
+  "dia": 0,
+  "hora": 18,
+  "demanda": 8880,
+  "produccion_no_hidraulica": 8290.8,
+  "produccion_hidraulica": 588.0
+},
+{
+  "dia": 1,
+  "hora": 12,
+  "demanda": 9202,
+  "produccion_no_hidraulica": 10258.815470852018,
+  "produccion_hidraulica": 481.63452914798205
+},
+{
+  "dia": 2,
+  "hora": 6,
+  "demanda": 8651,
+  "produccion_no_hidraulica": 8475.09718309859,
+  "produccion_hidraulica": 642.0528169014085
+},
+{
+  "dia": 2,
+  "hora": 20,
+  "demanda": 9442,
+  "produccion_no_hidraulica": 9964.358977635782,
+  "produccion_hidraulica": 680.1610223642173
+},
+{
+  "dia": 4,
+  "hora": 13,
+  "demanda": 8638,
+  "produccion_no_hidraulica": 10577.97826446281,
+  "produccion_hidraulica": 616.7917355371901
+},
+{
+  "dia": 0,
+  "hora": 17,
+  "demanda": 8720,
+  "produccion_no_hidraulica": 8205.100758122742,
+  "produccion_hidraulica": 638.5292418772563
+},
+{
+  "dia": 3,
+  "hora": 17,
+  "demanda": 8348,
+  "produccion_no_hidraulica": 10456.272524271844,
+  "produccion_hidraulica": 723.6174757281552
+},
+{
+  "dia": 3,
+  "hora": 0,
+  "demanda": 8110,
+  "produccion_no_hidraulica": 9193.856925566344,
+  "produccion_hidraulica": 636.2530744336569
+},
+{
+  "dia": 2,
+  "hora": 12,
+  "demanda": 9519,
+  "produccion_no_hidraulica": 10472.766824644548,
+  "produccion_hidraulica": 521.0331753554501
+},
+{
+  "dia": 2,
+  "hora": 21,
+  "demanda": 9218,
+  "produccion_no_hidraulica": 10286.309242902207,
+  "produccion_hidraulica": 692.6807570977918
+},
+{
+  "dia": 2,
+  "hora": 7,
+  "demanda": 9041,
+  "produccion_no_hidraulica": 8672.929411764706,
+  "produccion_hidraulica": 572.4705882352941
+},
+{
+  "dia": 1,
+  "hora": 15,
+  "demanda": 9269,
+  "produccion_no_hidraulica": 10689.556945812807,
+  "produccion_hidraulica": 553.8630541871921
+},
+{
+  "dia": 2,
+  "hora": 3,
+  "demanda": 7559,
+  "produccion_no_hidraulica": 8397.974666666667,
+  "produccion_hidraulica": 599.8553333333333
+},
+{
+  "dia": 2,
+  "hora": 17,
+  "demanda": 8923,
+  "produccion_no_hidraulica": 10615.03650485437,
+  "produccion_hidraulica": 541.5834951456311
+},
+{
+  "dia": 4,
+  "hora": 1,
+  "demanda": 7370,
+  "produccion_no_hidraulica": 8413.187010309279,
+  "produccion_hidraulica": 967.0329896907215
+},
+{
+  "dia": 2,
+  "hora": 2,
+  "demanda": 7638,
+  "produccion_no_hidraulica": 8528.66843205575,
+  "produccion_hidraulica": 638.8515679442509
+},
+{
+  "dia": 3,
+  "hora": 1,
+  "demanda": 7818,
+  "produccion_no_hidraulica": 8729.464259927798,
+  "produccion_hidraulica": 679.3357400722022
+},
+{
+  "dia": 3,
+  "hora": 15,
+  "demanda": 8471,
+  "produccion_no_hidraulica": 10740.735584415585,
+  "produccion_hidraulica": 745.8844155844156
+},
+{
+  "dia": 3,
+  "hora": 7,
+  "demanda": 8014,
+  "produccion_no_hidraulica": 8676.897492260061,
+  "produccion_hidraulica": 572.732507739938
+},
+{
+  "dia": 3,
+  "hora": 2,
+  "demanda": 7638,
+  "produccion_no_hidraulica": 8518.426834532374,
+  "produccion_hidraulica": 660.3431654676259
+},
+{
+  "dia": 4,
+  "hora": 16,
+  "demanda": 8278,
+  "produccion_no_hidraulica": 10495.499259259259,
+  "produccion_hidraulica": 586.3407407407407
+},
+{
+  "dia": 2,
+  "hora": 5,
+  "demanda": 8174,
+  "produccion_no_hidraulica": 8291.104732824428,
+  "produccion_hidraulica": 685.2152671755725
+},
+{
+  "dia": 2,
+  "hora": 15,
+  "demanda": 9267,
+  "produccion_no_hidraulica": 10961.223600973235,
+  "produccion_hidraulica": 560.676399026764
+},
+{
+  "dia": 3,
+  "hora": 8,
+  "demanda": 8459,
+  "produccion_no_hidraulica": 9239.77471153846,
+  "produccion_hidraulica": 466.6552884615385
+},
+{
+  "dia": 2,
+  "hora": 14,
+  "demanda": 9505,
+  "produccion_no_hidraulica": 10894.640792079208,
+  "produccion_hidraulica": 567.4292079207921
+},
+{
+  "dia": 1,
+  "hora": 19,
+  "demanda": 9583,
+  "produccion_no_hidraulica": 10106.979875311721,
+  "produccion_hidraulica": 530.5501246882793
+},
+{
+  "dia": 4,
+  "hora": 14,
+  "demanda": 8439,
+  "produccion_no_hidraulica": 10688.367083333333,
+  "produccion_hidraulica": 587.2729166666667
+},
+{
+  "dia": 3,
+  "hora": 5,
+  "demanda": 7646,
+  "produccion_no_hidraulica": 8354.210646387832,
+  "produccion_hidraulica": 687.5893536121672
+},
+{
+  "dia": 1,
+  "hora": 13,
+  "demanda": 9261,
+  "produccion_no_hidraulica": 10425.346600985222,
+  "produccion_hidraulica": 540.1733990147784
+},
+{
+  "dia": 4,
+  "hora": 9,
+  "demanda": 8173,
+  "produccion_no_hidraulica": 9885.942646310434,
+  "produccion_hidraulica": 530.0773536895674
+},
+{
+  "dia": 4,
+  "hora": 5,
+  "demanda": 7108,
+  "produccion_no_hidraulica": 7980.982978723404,
+  "produccion_hidraulica": 950.1170212765958
+},
+{
+  "dia": 5,
+  "hora": 3,
+  "demanda": 7406,
+  "produccion_no_hidraulica": 7963.9838709677415,
+  "produccion_hidraulica": 959.516129032258
+},
+{
+  "dia": 6,
+  "hora": 20,
+  "demanda": 9575,
+  "produccion_no_hidraulica": 9179.893180722893,
+  "produccion_hidraulica": 416.21681927710847
+},
+{
+  "dia": 3,
+  "hora": 3,
+  "demanda": 7535,
+  "produccion_no_hidraulica": 8310.548221343874,
+  "produccion_hidraulica": 713.3517786561265
+},
+{
+  "dia": 1,
+  "hora": 20,
+  "demanda": 9471,
+  "produccion_no_hidraulica": 10048.067222222222,
+  "produccion_hidraulica": 591.0627777777777
+},
+{
+  "dia": 2,
+  "hora": 23,
+  "demanda": 8444,
+  "produccion_no_hidraulica": 9280.182972972972,
+  "produccion_hidraulica": 672.477027027027
+},
+{
+  "dia": 4,
+  "hora": 7,
+  "demanda": 7335,
+  "produccion_no_hidraulica": 8625.77510948905,
+  "produccion_hidraulica": 679.1948905109488
+},
+{
+  "dia": 3,
+  "hora": 12,
+  "demanda": 8883,
+  "produccion_no_hidraulica": 10233.881582491584,
+  "produccion_hidraulica": 738.9084175084175
+},
+{
+  "dia": 5,
+  "hora": 6,
+  "demanda": 8758,
+  "produccion_no_hidraulica": 7776.393333333333,
+  "produccion_hidraulica": 1095.2666666666667
+},
+{
+  "dia": 4,
+  "hora": 18,
+  "demanda": 8640,
+  "produccion_no_hidraulica": 9857.66961038961,
+  "produccion_hidraulica": 684.5603896103895
+},
+{
+  "dia": 4,
+  "hora": 20,
+  "demanda": 9376,
+  "produccion_no_hidraulica": 9490.30025210084,
+  "produccion_hidraulica": 870.6697478991597
+},
+{
+  "dia": 1,
+  "hora": 17,
+  "demanda": 8956,
+  "produccion_no_hidraulica": 10499.01344827586,
+  "produccion_hidraulica": 505.9765517241379
+},
+{
+  "dia": 5,
+  "hora": 4,
+  "demanda": 7501,
+  "produccion_no_hidraulica": 7946.306524064171,
+  "produccion_hidraulica": 951.6534759358287
+},
+{
+  "dia": 5,
+  "hora": 9,
+  "demanda": 9592,
+  "produccion_no_hidraulica": 8889.917583892617,
+  "produccion_hidraulica": 639.5624161073825
+},
+{
+  "dia": 4,
+  "hora": 19,
+  "demanda": 9285,
+  "produccion_no_hidraulica": 9652.361042471042,
+  "produccion_hidraulica": 807.7289575289575
+},
+{
+  "dia": 4,
+  "hora": 6,
+  "demanda": 7130,
+  "produccion_no_hidraulica": 8230.897276995305,
+  "produccion_hidraulica": 852.9427230046948
+},
+{
+  "dia": 4,
+  "hora": 8,
+  "demanda": 7805,
+  "produccion_no_hidraulica": 9385.862608695652,
+  "produccion_hidraulica": 539.4173913043478
+},
+{
+  "dia": 3,
+  "hora": 14,
+  "demanda": 8607,
+  "produccion_no_hidraulica": 10642.689185667752,
+  "produccion_hidraulica": 741.6508143322476
+},
+{
+  "dia": 5,
+  "hora": 1,
+  "demanda": 7534,
+  "produccion_no_hidraulica": 8278.252771084337,
+  "produccion_hidraulica": 1134.0072289156626
+},
+{
+  "dia": 7,
+  "hora": 3,
+  "demanda": 7608,
+  "produccion_no_hidraulica": 7712.852608695652,
+  "produccion_hidraulica": 734.5573913043478
+},
+{
+  "dia": 3,
+  "hora": 4,
+  "demanda": 7546,
+  "produccion_no_hidraulica": 8260.053061224491,
+  "produccion_hidraulica": 734.2269387755102
+},
+{
+  "dia": 3,
+  "hora": 6,
+  "demanda": 7741,
+  "produccion_no_hidraulica": 8482.808966789667,
+  "produccion_hidraulica": 675.9210332103321
+},
+{
+  "dia": 3,
+  "hora": 9,
+  "demanda": 8806,
+  "produccion_no_hidraulica": 9771.374685138539,
+  "produccion_hidraulica": 518.375314861461
+},
+{
+  "dia": 5,
+  "hora": 20,
+  "demanda": 9746,
+  "produccion_no_hidraulica": 9161.102181818182,
+  "produccion_hidraulica": 718.5178181818183
+},
+{
+  "dia": 5,
+  "hora": 8,
+  "demanda": 9526,
+  "produccion_no_hidraulica": 8280.803709677419,
+  "produccion_hidraulica": 726.3862903225806
+},
+{
+  "dia": 2,
+  "hora": 16,
+  "demanda": 8991,
+  "produccion_no_hidraulica": 10911.35626506024,
+  "produccion_hidraulica": 552.4737349397591
+},
+{
+  "dia": 5,
+  "hora": 19,
+  "demanda": 9843,
+  "produccion_no_hidraulica": 9001.965660377358,
+  "produccion_hidraulica": 734.8543396226414
+},
+{
+  "dia": 7,
+  "hora": 4,
+  "demanda": 7706,
+  "produccion_no_hidraulica": 7635.666888888889,
+  "produccion_hidraulica": 744.9431111111112
+},
+{
+  "dia": 2,
+  "hora": 19,
+  "demanda": 9532,
+  "produccion_no_hidraulica": 10059.081379310344,
+  "produccion_hidraulica": 613.3586206896551
+},
+{
+  "dia": 4,
+  "hora": 15,
+  "demanda": 8347,
+  "produccion_no_hidraulica": 10627.358925619836,
+  "produccion_hidraulica": 619.6710743801654
+},
+{
+  "dia": 3,
+  "hora": 20,
+  "demanda": 8926,
+  "produccion_no_hidraulica": 9776.97173553719,
+  "produccion_hidraulica": 880.80826446281
+},
+{
+  "dia": 7,
+  "hora": 20,
+  "demanda": 9583,
+  "produccion_no_hidraulica": 9844.662636815921,
+  "produccion_hidraulica": 515.4273631840796
+},
+{
+  "dia": 5,
+  "hora": 2,
+  "demanda": 7420,
+  "produccion_no_hidraulica": 8082.604444444444,
+  "produccion_hidraulica": 1010.3255555555555
+},
+{
+  "dia": 6,
+  "hora": 0,
+  "demanda": 7977,
+  "produccion_no_hidraulica": 8368.902857142857,
+  "produccion_hidraulica": 880.9371428571428
+},
+{
+  "dia": 4,
+  "hora": 2,
+  "demanda": 7202,
+  "produccion_no_hidraulica": 8046.781169590643,
+  "produccion_hidraulica": 1065.7988304093567
+},
+{
+  "dia": 3,
+  "hora": 10,
+  "demanda": 8844,
+  "produccion_no_hidraulica": 9969.074591194969,
+  "produccion_hidraulica": 669.0654088050314
+},
+{
+  "dia": 6,
+  "hora": 15,
+  "demanda": 9114,
+  "produccion_no_hidraulica": 8761.465588235294,
+  "produccion_hidraulica": 695.3544117647059
+},
+{
+  "dia": 2,
+  "hora": 22,
+  "demanda": 8875,
+  "produccion_no_hidraulica": 10041.764931506848,
+  "produccion_hidraulica": 738.3650684931506
+},
+{
+  "dia": 5,
+  "hora": 10,
+  "demanda": 9609,
+  "produccion_no_hidraulica": 9232.102222222222,
+  "produccion_hidraulica": 666.5777777777778
+},
+{
+  "dia": 3,
+  "hora": 18,
+  "demanda": 8550,
+  "produccion_no_hidraulica": 10126.206842105263,
+  "produccion_hidraulica": 713.1131578947368
+},
+{
+  "dia": 4,
+  "hora": 0,
+  "demanda": 7657,
+  "produccion_no_hidraulica": 8917.676511627906,
+  "produccion_hidraulica": 914.633488372093
+},
+{
+  "dia": 5,
+  "hora": 11,
+  "demanda": 9563,
+  "produccion_no_hidraulica": 9382.037284768212,
+  "produccion_hidraulica": 665.3927152317882
+},
+{
+  "dia": 8,
+  "hora": 14,
+  "demanda": 9752,
+  "produccion_no_hidraulica": 10220.649655172414,
+  "produccion_hidraulica": 623.2103448275863
+},
+{
+  "dia": 3,
+  "hora": 11,
+  "demanda": 8850,
+  "produccion_no_hidraulica": 10122.90357615894,
+  "produccion_hidraulica": 717.9364238410596
+},
+{
+  "dia": 3,
+  "hora": 16,
+  "demanda": 8386,
+  "produccion_no_hidraulica": 10735.265279503104,
+  "produccion_hidraulica": 710.9447204968943
+},
+{
+  "dia": 4,
+  "hora": 4,
+  "demanda": 7055,
+  "produccion_no_hidraulica": 7859.104539877301,
+  "produccion_hidraulica": 1099.1754601226994
+},
+{
+  "dia": 8,
+  "hora": 2,
+  "demanda": 7679,
+  "produccion_no_hidraulica": 8209.664605263157,
+  "produccion_hidraulica": 578.145394736842
+},
+{
+  "dia": 6,
+  "hora": 17,
+  "demanda": 8828,
+  "produccion_no_hidraulica": 8673.362739726028,
+  "produccion_hidraulica": 637.7472602739726
+},
+{
+  "dia": 5,
+  "hora": 16,
+  "demanda": 9259,
+  "produccion_no_hidraulica": 9159.089034749037,
+  "produccion_hidraulica": 766.4509652509653
+},
+{
+  "dia": 6,
+  "hora": 19,
+  "demanda": 9572,
+  "produccion_no_hidraulica": 8780.27035460993,
+  "produccion_hidraulica": 670.249645390071
+},
+{
+  "dia": 5,
+  "hora": 5,
+  "demanda": 8136,
+  "produccion_no_hidraulica": 7926.566230366492,
+  "produccion_hidraulica": 927.0837696335078
+},
+{
+  "dia": 4,
+  "hora": 3,
+  "demanda": 7141,
+  "produccion_no_hidraulica": 7915.831212121212,
+  "produccion_hidraulica": 1091.838787878788
+},
+{
+  "dia": 3,
+  "hora": 19,
+  "demanda": 8978,
+  "produccion_no_hidraulica": 9877.08472440945,
+  "produccion_hidraulica": 844.1952755905512
+},
+{
+  "dia": 4,
+  "hora": 10,
+  "demanda": 8423,
+  "produccion_no_hidraulica": 10273.41391198044,
+  "produccion_hidraulica": 528.19608801956
+},
+{
+  "dia": 8,
+  "hora": 20,
+  "demanda": 9789,
+  "produccion_no_hidraulica": 10238.44,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 5,
+  "hora": 17,
+  "demanda": 9120,
+  "produccion_no_hidraulica": 9080.140597014924,
+  "produccion_hidraulica": 732.2694029850745
+},
+{
+  "dia": 3,
+  "hora": 22,
+  "demanda": 8416,
+  "produccion_no_hidraulica": 9969.39535315985,
+  "produccion_hidraulica": 800.7546468401487
+},
+{
+  "dia": 5,
+  "hora": 14,
+  "demanda": 9484,
+  "produccion_no_hidraulica": 9535.038591549295,
+  "produccion_hidraulica": 722.3514084507042
+},
+{
+  "dia": 4,
+  "hora": 22,
+  "demanda": 8627,
+  "produccion_no_hidraulica": 9547.098316831683,
+  "produccion_hidraulica": 1049.1316831683168
+},
+{
+  "dia": 3,
+  "hora": 21,
+  "demanda": 8720,
+  "produccion_no_hidraulica": 10089.136981132075,
+  "produccion_hidraulica": 823.6030188679244
+},
+{
+  "dia": 6,
+  "hora": 5,
+  "demanda": 8418,
+  "produccion_no_hidraulica": 7143.890422535212,
+  "produccion_hidraulica": 1171.1295774647888
+},
+{
+  "dia": 6,
+  "hora": 22,
+  "demanda": 8905,
+  "produccion_no_hidraulica": 9515.032849740932,
+  "produccion_hidraulica": 519.9471502590673
+},
+{
+  "dia": 5,
+  "hora": 7,
+  "demanda": 9179,
+  "produccion_no_hidraulica": 7741.102222222222,
+  "produccion_hidraulica": 967.6377777777777
+},
+{
+  "dia": 10,
+  "hora": 18,
+  "demanda": 8628,
+  "produccion_no_hidraulica": 10238.9,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 4,
+  "hora": 21,
+  "demanda": 9106,
+  "produccion_no_hidraulica": 9814.737966101695,
+  "produccion_hidraulica": 908.772033898305
+},
+{
+  "dia": 8,
+  "hora": 15,
+  "demanda": 9698,
+  "produccion_no_hidraulica": 10257.935614973261,
+  "produccion_hidraulica": 579.5443850267379
+},
+{
+  "dia": 5,
+  "hora": 18,
+  "demanda": 9306,
+  "produccion_no_hidraulica": 9032.021908396946,
+  "produccion_hidraulica": 746.4480916030534
+},
+{
+  "dia": 7,
+  "hora": 7,
+  "demanda": 8963,
+  "produccion_no_hidraulica": 8179.464869888477,
+  "produccion_hidraulica": 656.9851301115242
+},
+{
+  "dia": 7,
+  "hora": 2,
+  "demanda": 7662,
+  "produccion_no_hidraulica": 7862.207142857143,
+  "produccion_hidraulica": 698.862857142857
+},
+{
+  "dia": 4,
+  "hora": 11,
+  "demanda": 8568,
+  "produccion_no_hidraulica": 10433.138172588831,
+  "produccion_hidraulica": 557.9218274111674
+},
+{
+  "dia": 4,
+  "hora": 23,
+  "demanda": 8184,
+  "produccion_no_hidraulica": 9264.754878048781,
+  "produccion_hidraulica": 1001.5951219512195
+},
+{
+  "dia": 6,
+  "hora": 12,
+  "demanda": 9408,
+  "produccion_no_hidraulica": 8510.384939759037,
+  "produccion_hidraulica": 743.2650602409639
+},
+{
+  "dia": 7,
+  "hora": 13,
+  "demanda": 9192,
+  "produccion_no_hidraulica": 10270.602209302326,
+  "produccion_hidraulica": 633.9877906976744
+},
+{
+  "dia": 6,
+  "hora": 2,
+  "demanda": 7687,
+  "produccion_no_hidraulica": 7638.882352941176,
+  "produccion_hidraulica": 1018.5176470588235
+},
+{
+  "dia": 5,
+  "hora": 0,
+  "demanda": 7768,
+  "produccion_no_hidraulica": 8802.477575757577,
+  "produccion_hidraulica": 989.0424242424243
+},
+{
+  "dia": 10,
+  "hora": 19,
+  "demanda": 9111,
+  "produccion_no_hidraulica": 10134.67,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 6,
+  "hora": 1,
+  "demanda": 7797,
+  "produccion_no_hidraulica": 8005.864129353234,
+  "produccion_hidraulica": 884.6258706467662
+},
+{
+  "dia": 7,
+  "hora": 14,
+  "demanda": 9256,
+  "produccion_no_hidraulica": 10413.326843657816,
+  "produccion_hidraulica": 652.8731563421829
+},
+{
+  "dia": 6,
+  "hora": 8,
+  "demanda": 9467,
+  "produccion_no_hidraulica": 7364.363801652893,
+  "produccion_hidraulica": 663.4561983471075
+},
+{
+  "dia": 7,
+  "hora": 5,
+  "demanda": 8293,
+  "produccion_no_hidraulica": 7752.693697478992,
+  "produccion_hidraulica": 711.2563025210085
+},
+{
+  "dia": 6,
+  "hora": 4,
+  "demanda": 7847,
+  "produccion_no_hidraulica": 7300.434193548387,
+  "produccion_hidraulica": 1081.5458064516129
+},
+{
+  "dia": 9,
+  "hora": 12,
+  "demanda": 9581,
+  "produccion_no_hidraulica": 10051.389253731342,
+  "produccion_hidraulica": 526.2507462686567
+},
+{
+  "dia": 12,
+  "hora": 0,
+  "demanda": 7610,
+  "produccion_no_hidraulica": 9327.1126,
+  "produccion_hidraulica": 288.4674
+},
+{
+  "dia": 5,
+  "hora": 13,
+  "demanda": 9536,
+  "produccion_no_hidraulica": 9556.640689655173,
+  "produccion_hidraulica": 707.8993103448277
+},
+{
+  "dia": 6,
+  "hora": 13,
+  "demanda": 9313,
+  "produccion_no_hidraulica": 8729.28583011583,
+  "produccion_hidraulica": 730.4841698841699
+},
+{
+  "dia": 7,
+  "hora": 15,
+  "demanda": 9300,
+  "produccion_no_hidraulica": 10420.574457831324,
+  "produccion_hidraulica": 667.9855421686747
+},
+{
+  "dia": 4,
+  "hora": 17,
+  "demanda": 8347,
+  "produccion_no_hidraulica": 10219.311382978723,
+  "produccion_hidraulica": 574.1186170212766
+},
+{
+  "dia": 6,
+  "hora": 6,
+  "demanda": 8906,
+  "produccion_no_hidraulica": 6951.187692307693,
+  "produccion_hidraulica": 1263.852307692308
+},
+{
+  "dia": 5,
+  "hora": 21,
+  "demanda": 9391,
+  "produccion_no_hidraulica": 9524.401638225256,
+  "produccion_hidraulica": 697.758361774744
+},
+{
+  "dia": 6,
+  "hora": 7,
+  "demanda": 9226,
+  "produccion_no_hidraulica": 6988.559141104294,
+  "produccion_hidraulica": 977.4208588957055
+},
+{
+  "dia": 5,
+  "hora": 23,
+  "demanda": 8355,
+  "produccion_no_hidraulica": 8834.896784140969,
+  "produccion_hidraulica": 853.6132158590309
+},
+{
+  "dia": 7,
+  "hora": 6,
+  "demanda": 8706,
+  "produccion_no_hidraulica": 7953.026865671642,
+  "produccion_hidraulica": 641.3731343283581
+},
+{
+  "dia": 6,
+  "hora": 10,
+  "demanda": 9441,
+  "produccion_no_hidraulica": 8104.182050209206,
+  "produccion_hidraulica": 740.107949790795
+},
+{
+  "dia": 7,
+  "hora": 18,
+  "demanda": 9177,
+  "produccion_no_hidraulica": 9756.965919732442,
+  "produccion_hidraulica": 699.4240802675585
+},
+{
+  "dia": 9,
+  "hora": 19,
+  "demanda": 9610,
+  "produccion_no_hidraulica": 9702.859119170984,
+  "produccion_hidraulica": 530.2108808290155
+},
+{
+  "dia": 7,
+  "hora": 16,
+  "demanda": 9212,
+  "produccion_no_hidraulica": 10354.849253731343,
+  "produccion_hidraulica": 657.4507462686566
+},
+{
+  "dia": 7,
+  "hora": 8,
+  "demanda": 9218,
+  "produccion_no_hidraulica": 8884.792,
+  "produccion_hidraulica": 634.628
+},
+{
+  "dia": 6,
+  "hora": 18,
+  "demanda": 8996,
+  "produccion_no_hidraulica": 8750.077368421053,
+  "produccion_hidraulica": 616.2026315789474
+},
+{
+  "dia": 6,
+  "hora": 21,
+  "demanda": 9339,
+  "produccion_no_hidraulica": 9501.913266331658,
+  "produccion_hidraulica": 502.74673366834173
+},
+{
+  "dia": 8,
+  "hora": 13,
+  "demanda": 9782,
+  "produccion_no_hidraulica": 10104.473076923077,
+  "produccion_hidraulica": 566.0769230769231
+},
+{
+  "dia": 6,
+  "hora": 16,
+  "demanda": 8929,
+  "produccion_no_hidraulica": 8667.465882352943,
+  "produccion_hidraulica": 687.8941176470589
+},
+{
+  "dia": 10,
+  "hora": 13,
+  "demanda": 8924,
+  "produccion_no_hidraulica": 10102.748686131386,
+  "produccion_hidraulica": 462.72131386861315
+},
+{
+  "dia": 12,
+  "hora": 4,
+  "demanda": 7441,
+  "produccion_no_hidraulica": 8231.985116279071,
+  "produccion_hidraulica": 331.93488372093026
+},
+{
+  "dia": 5,
+  "hora": 12,
+  "demanda": 9519,
+  "produccion_no_hidraulica": 9450.675694444446,
+  "produccion_hidraulica": 705.2743055555557
+},
+{
+  "dia": 9,
+  "hora": 0,
+  "demanda": 8143,
+  "produccion_no_hidraulica": 9045.335569358178,
+  "produccion_hidraulica": 309.904430641822
+},
+{
+  "dia": 8,
+  "hora": 0,
+  "demanda": 8021,
+  "produccion_no_hidraulica": 9119.612813370473,
+  "produccion_hidraulica": 481.38718662952647
+},
+{
+  "dia": 7,
+  "hora": 10,
+  "demanda": 9257,
+  "produccion_no_hidraulica": 9839.511594202899,
+  "produccion_hidraulica": 605.5084057971014
+},
+{
+  "dia": 7,
+  "hora": 9,
+  "demanda": 9261,
+  "produccion_no_hidraulica": 9524.70588235294,
+  "produccion_hidraulica": 595.2941176470588
+},
+{
+  "dia": 11,
+  "hora": 10,
+  "demanda": 8002,
+  "produccion_no_hidraulica": 10350.91,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 7,
+  "hora": 11,
+  "demanda": 9188,
+  "produccion_no_hidraulica": 10012.253888888888,
+  "produccion_hidraulica": 588.956111111111
+},
+{
+  "dia": 7,
+  "hora": 1,
+  "demanda": 7748,
+  "produccion_no_hidraulica": 8070.047872340426,
+  "produccion_hidraulica": 750.7021276595744
+},
+{
+  "dia": 12,
+  "hora": 5,
+  "demanda": 8023,
+  "produccion_no_hidraulica": 8263.9296,
+  "produccion_hidraulica": 344.3304
+},
+{
+  "dia": 8,
+  "hora": 18,
+  "demanda": 9408,
+  "produccion_no_hidraulica": 10361.24,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 6,
+  "hora": 9,
+  "demanda": 9471,
+  "produccion_no_hidraulica": 7827.803076923078,
+  "produccion_hidraulica": 652.3169230769232
+},
+{
+  "dia": 5,
+  "hora": 15,
+  "demanda": 9369,
+  "produccion_no_hidraulica": 9335.735454545455,
+  "produccion_hidraulica": 732.2145454545455
+},
+{
+  "dia": 8,
+  "hora": 12,
+  "demanda": 9730,
+  "produccion_no_hidraulica": 10070.653376623375,
+  "produccion_hidraulica": 551.8166233766234
+},
+{
+  "dia": 9,
+  "hora": 6,
+  "demanda": 8683,
+  "produccion_no_hidraulica": 8232.522151898735,
+  "produccion_hidraulica": 439.06784810126584
+},
+{
+  "dia": 7,
+  "hora": 17,
+  "demanda": 9053,
+  "produccion_no_hidraulica": 10068.350575079872,
+  "produccion_hidraulica": 687.2594249201278
+},
+{
+  "dia": 8,
+  "hora": 9,
+  "demanda": 9491,
+  "produccion_no_hidraulica": 9512.014058355438,
+  "produccion_hidraulica": 532.8859416445623
+},
+{
+  "dia": 8,
+  "hora": 1,
+  "demanda": 7842,
+  "produccion_no_hidraulica": 8538.018322981367,
+  "produccion_hidraulica": 565.4316770186335
+},
+{
+  "dia": 11,
+  "hora": 19,
+  "demanda": 9009,
+  "produccion_no_hidraulica": 10244.93,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 9,
+  "hora": 8,
+  "demanda": 9397,
+  "produccion_no_hidraulica": 8873.268796296297,
+  "produccion_hidraulica": 430.7412037037037
+},
+{
+  "dia": 7,
+  "hora": 21,
+  "demanda": 9308,
+  "produccion_no_hidraulica": 10092.488365384614,
+  "produccion_hidraulica": 509.7216346153846
+},
+{
+  "dia": 7,
+  "hora": 19,
+  "demanda": 9642,
+  "produccion_no_hidraulica": 9679.390158730159,
+  "produccion_hidraulica": 656.2298412698412
+},
+{
+  "dia": 7,
+  "hora": 12,
+  "demanda": 9167,
+  "produccion_no_hidraulica": 10172.189130434783,
+  "produccion_hidraulica": 625.9808695652174
+},
+{
+  "dia": 7,
+  "hora": 23,
+  "demanda": 8364,
+  "produccion_no_hidraulica": 10054.29,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 9,
+  "hora": 14,
+  "demanda": 9466,
+  "produccion_no_hidraulica": 10253.996997319033,
+  "produccion_hidraulica": 580.9630026809651
+},
+{
+  "dia": 5,
+  "hora": 22,
+  "demanda": 8893,
+  "produccion_no_hidraulica": 9365.510839694656,
+  "produccion_hidraulica": 774.0091603053436
+},
+{
+  "dia": 9,
+  "hora": 9,
+  "demanda": 9534,
+  "produccion_no_hidraulica": 9376.545583524028,
+  "produccion_hidraulica": 449.71441647597254
+},
+{
+  "dia": 8,
+  "hora": 3,
+  "demanda": 7614,
+  "produccion_no_hidraulica": 8024.171594202898,
+  "produccion_hidraulica": 626.8884057971014
+},
+{
+  "dia": 9,
+  "hora": 10,
+  "demanda": 9560,
+  "produccion_no_hidraulica": 9705.484195804196,
+  "produccion_hidraulica": 474.59580419580425
+},
+{
+  "dia": 10,
+  "hora": 2,
+  "demanda": 7738,
+  "produccion_no_hidraulica": 8018.928333333333,
+  "produccion_hidraulica": 549.2416666666667
+},
+{
+  "dia": 8,
+  "hora": 17,
+  "demanda": 9312,
+  "produccion_no_hidraulica": 10490.681304347827,
+  "produccion_hidraulica": 173.8786956521739
+},
+{
+  "dia": 8,
+  "hora": 16,
+  "demanda": 9488,
+  "produccion_no_hidraulica": 10276.700600522192,
+  "produccion_hidraulica": 566.2093994778068
+},
+{
+  "dia": 7,
+  "hora": 22,
+  "demanda": 8834,
+  "produccion_no_hidraulica": 10407.468513853904,
+  "produccion_hidraulica": 26.281486146095716
+},
+{
+  "dia": 9,
+  "hora": 17,
+  "demanda": 9082,
+  "produccion_no_hidraulica": 10089.993387978142,
+  "produccion_hidraulica": 583.2366120218579
+},
+{
+  "dia": 9,
+  "hora": 16,
+  "demanda": 9122,
+  "produccion_no_hidraulica": 10249.898582677164,
+  "produccion_hidraulica": 567.8614173228347
+},
+{
+  "dia": 11,
+  "hora": 6,
+  "demanda": 7002,
+  "produccion_no_hidraulica": 8862.15,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 6,
+  "hora": 3,
+  "demanda": 7690,
+  "produccion_no_hidraulica": 7318.228666666668,
+  "produccion_hidraulica": 1125.8813333333335
+},
+{
+  "dia": 9,
+  "hora": 23,
+  "demanda": 8548,
+  "produccion_no_hidraulica": 9948.3,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 8,
+  "hora": 19,
+  "demanda": 9830,
+  "produccion_no_hidraulica": 10211.05,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 8,
+  "hora": 5,
+  "demanda": 8320,
+  "produccion_no_hidraulica": 7994.305636363636,
+  "produccion_hidraulica": 627.0043636363636
+},
+{
+  "dia": 8,
+  "hora": 11,
+  "demanda": 9657,
+  "produccion_no_hidraulica": 9936.055984251969,
+  "produccion_hidraulica": 550.4740157480315
+},
+{
+  "dia": 9,
+  "hora": 15,
+  "demanda": 9322,
+  "produccion_no_hidraulica": 10304.877611940297,
+  "produccion_hidraulica": 539.5223880597015
+},
+{
+  "dia": 9,
+  "hora": 2,
+  "demanda": 7787,
+  "produccion_no_hidraulica": 8245.245555555555,
+  "produccion_hidraulica": 428.3244444444444
+},
+{
+  "dia": 11,
+  "hora": 11,
+  "demanda": 8154,
+  "produccion_no_hidraulica": 10522.91,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 10,
+  "hora": 20,
+  "demanda": 9094,
+  "produccion_no_hidraulica": 10112.06,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 10,
+  "hora": 15,
+  "demanda": 8616,
+  "produccion_no_hidraulica": 10701.32,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 10,
+  "hora": 9,
+  "demanda": 8894,
+  "produccion_no_hidraulica": 9268.794399999999,
+  "produccion_hidraulica": 522.1856
+},
+{
+  "dia": 8,
+  "hora": 22,
+  "demanda": 8993,
+  "produccion_no_hidraulica": 10390.92,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 8,
+  "hora": 6,
+  "demanda": 8734,
+  "produccion_no_hidraulica": 8243.289166666666,
+  "produccion_hidraulica": 615.1708333333333
+},
+{
+  "dia": 11,
+  "hora": 13,
+  "demanda": 8236,
+  "produccion_no_hidraulica": 10803.66,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 11,
+  "hora": 12,
+  "demanda": 8281,
+  "produccion_no_hidraulica": 10646.23,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 6,
+  "hora": 11,
+  "demanda": 9440,
+  "produccion_no_hidraulica": 8297.308346456693,
+  "produccion_hidraulica": 709.171653543307
+},
+{
+  "dia": 9,
+  "hora": 3,
+  "demanda": 7742,
+  "produccion_no_hidraulica": 8148.955208333334,
+  "produccion_hidraulica": 447.74479166666674
+},
+{
+  "dia": 11,
+  "hora": 1,
+  "demanda": 7486,
+  "produccion_no_hidraulica": 8958.67,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 9,
+  "hora": 7,
+  "demanda": 9042,
+  "produccion_no_hidraulica": 8402.061492537312,
+  "produccion_hidraulica": 439.89850746268655
+},
+{
+  "dia": 8,
+  "hora": 10,
+  "demanda": 9529,
+  "produccion_no_hidraulica": 9813.187340425531,
+  "produccion_hidraulica": 551.3026595744681
+},
+{
+  "dia": 6,
+  "hora": 14,
+  "demanda": 9193,
+  "produccion_no_hidraulica": 8802.731481481482,
+  "produccion_hidraulica": 704.2185185185185
+},
+{
+  "dia": 8,
+  "hora": 7,
+  "demanda": 9093,
+  "produccion_no_hidraulica": 8445.523234323431,
+  "produccion_hidraulica": 596.8567656765675
+},
+{
+  "dia": 11,
+  "hora": 16,
+  "demanda": 8070,
+  "produccion_no_hidraulica": 10913.82,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 9,
+  "hora": 20,
+  "demanda": 9509,
+  "produccion_no_hidraulica": 9756.394320987654,
+  "produccion_hidraulica": 506.82567901234563
+},
+{
+  "dia": 9,
+  "hora": 1,
+  "demanda": 7906,
+  "produccion_no_hidraulica": 8499.830182232346,
+  "produccion_hidraulica": 405.71981776765375
+},
+{
+  "dia": 9,
+  "hora": 5,
+  "demanda": 8319,
+  "produccion_no_hidraulica": 8059.71714987715,
+  "produccion_hidraulica": 416.52285012285006
+},
+{
+  "dia": 9,
+  "hora": 13,
+  "demanda": 9585,
+  "produccion_no_hidraulica": 10148.932283464566,
+  "produccion_hidraulica": 562.2677165354331
+},
+{
+  "dia": 10,
+  "hora": 11,
+  "demanda": 9048,
+  "produccion_no_hidraulica": 9591.841353135313,
+  "produccion_hidraulica": 677.8686468646863
+},
+{
+  "dia": 8,
+  "hora": 21,
+  "demanda": 9461,
+  "produccion_no_hidraulica": 10152.32408080808,
+  "produccion_hidraulica": 361.06591919191914
+},
+{
+  "dia": 11,
+  "hora": 21,
+  "demanda": 8782,
+  "produccion_no_hidraulica": 10410.58,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 9,
+  "hora": 4,
+  "demanda": 7830,
+  "produccion_no_hidraulica": 7999.580206185567,
+  "produccion_hidraulica": 434.75979381443295
+},
+{
+  "dia": 11,
+  "hora": 22,
+  "demanda": 8384,
+  "produccion_no_hidraulica": 10308.81,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 9,
+  "hora": 21,
+  "demanda": 9261,
+  "produccion_no_hidraulica": 10058.566097560975,
+  "produccion_hidraulica": 515.8239024390243
+},
+{
+  "dia": 10,
+  "hora": 0,
+  "demanda": 8147,
+  "produccion_no_hidraulica": 9329.78,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 10,
+  "hora": 3,
+  "demanda": 7679,
+  "produccion_no_hidraulica": 7904.214983922829,
+  "produccion_hidraulica": 543.2450160771704
+},
+{
+  "dia": 9,
+  "hora": 18,
+  "demanda": 9199,
+  "produccion_no_hidraulica": 9799.812391304347,
+  "produccion_hidraulica": 563.2076086956522
+},
+{
+  "dia": 10,
+  "hora": 4,
+  "demanda": 7653,
+  "produccion_no_hidraulica": 7778.755833333334,
+  "produccion_hidraulica": 580.5041666666667
+},
+{
+  "dia": 6,
+  "hora": 23,
+  "demanda": 8428,
+  "produccion_no_hidraulica": 9079.955923566878,
+  "produccion_hidraulica": 617.6840764331209
+},
+{
+  "dia": 12,
+  "hora": 3,
+  "demanda": 7313,
+  "produccion_no_hidraulica": 8358.83038167939,
+  "produccion_hidraulica": 331.69961832061074
+},
+{
+  "dia": 10,
+  "hora": 16,
+  "demanda": 8510,
+  "produccion_no_hidraulica": 10758.4,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 10,
+  "hora": 7,
+  "demanda": 8150,
+  "produccion_no_hidraulica": 8163.953333333334,
+  "produccion_hidraulica": 526.7066666666667
+},
+{
+  "dia": 11,
+  "hora": 14,
+  "demanda": 8157,
+  "produccion_no_hidraulica": 10953.39,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 7,
+  "hora": 0,
+  "demanda": 7994,
+  "produccion_no_hidraulica": 8597.05206405694,
+  "produccion_hidraulica": 658.7779359430606
+},
+{
+  "dia": 10,
+  "hora": 5,
+  "demanda": 7722,
+  "produccion_no_hidraulica": 7842.976072607261,
+  "produccion_hidraulica": 554.2739273927392
+},
+{
+  "dia": 12,
+  "hora": 7,
+  "demanda": 8885,
+  "produccion_no_hidraulica": 8205.99156862745,
+  "produccion_hidraulica": 334.938431372549
+},
+{
+  "dia": 10,
+  "hora": 8,
+  "demanda": 8576,
+  "produccion_no_hidraulica": 8764.524959349596,
+  "produccion_hidraulica": 502.2650406504066
+},
+{
+  "dia": 10,
+  "hora": 12,
+  "demanda": 9029,
+  "produccion_no_hidraulica": 9749.700847457627,
+  "produccion_hidraulica": 709.0691525423729
+},
+{
+  "dia": 10,
+  "hora": 10,
+  "demanda": 8960,
+  "produccion_no_hidraulica": 9500.051516034986,
+  "produccion_hidraulica": 588.2384839650146
+},
+{
+  "dia": 11,
+  "hora": 23,
+  "demanda": 7942,
+  "produccion_no_hidraulica": 10012.65,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 10,
+  "hora": 23,
+  "demanda": 8128,
+  "produccion_no_hidraulica": 9961.0,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 8,
+  "hora": 4,
+  "demanda": 7771,
+  "produccion_no_hidraulica": 7940.673134328357,
+  "produccion_hidraulica": 640.3768656716417
+},
+{
+  "dia": 11,
+  "hora": 4,
+  "demanda": 7154,
+  "produccion_no_hidraulica": 8589.86,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 11,
+  "hora": 3,
+  "demanda": 7228,
+  "produccion_no_hidraulica": 8609.54,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 10,
+  "hora": 21,
+  "demanda": 8861,
+  "produccion_no_hidraulica": 10404.89,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 10,
+  "hora": 17,
+  "demanda": 8528,
+  "produccion_no_hidraulica": 10584.25,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 10,
+  "hora": 6,
+  "demanda": 7799,
+  "produccion_no_hidraulica": 7989.106688741721,
+  "produccion_hidraulica": 566.6033112582782
+},
+{
+  "dia": 12,
+  "hora": 9,
+  "demanda": 9416,
+  "produccion_no_hidraulica": 8946.57191135734,
+  "produccion_hidraulica": 254.88808864265926
+},
+{
+  "dia": 8,
+  "hora": 8,
+  "demanda": 9424,
+  "produccion_no_hidraulica": 8955.230561797753,
+  "produccion_hidraulica": 533.0494382022472
+},
+{
+  "dia": 11,
+  "hora": 20,
+  "demanda": 9063,
+  "produccion_no_hidraulica": 10185.16,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 10,
+  "hora": 14,
+  "demanda": 8772,
+  "produccion_no_hidraulica": 10647.19,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 11,
+  "hora": 8,
+  "demanda": 7582,
+  "produccion_no_hidraulica": 9387.47,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 8,
+  "hora": 23,
+  "demanda": 8525,
+  "produccion_no_hidraulica": 10000.28,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 11,
+  "hora": 2,
+  "demanda": 7290,
+  "produccion_no_hidraulica": 8732.35,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 11,
+  "hora": 5,
+  "demanda": 7138,
+  "produccion_no_hidraulica": 8599.96,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 11,
+  "hora": 0,
+  "demanda": 7767,
+  "produccion_no_hidraulica": 9417.2,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 12,
+  "hora": 11,
+  "demanda": 9439,
+  "produccion_no_hidraulica": 9394.658134110789,
+  "produccion_hidraulica": 282.1218658892128
+},
+{
+  "dia": 9,
+  "hora": 11,
+  "demanda": 9595,
+  "produccion_no_hidraulica": 9937.60866983373,
+  "produccion_hidraulica": 495.6413301662708
+},
+{
+  "dia": 11,
+  "hora": 15,
+  "demanda": 8080,
+  "produccion_no_hidraulica": 10966.9,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 11,
+  "hora": 17,
+  "demanda": 8131,
+  "produccion_no_hidraulica": 10681.42,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 11,
+  "hora": 9,
+  "demanda": 7868,
+  "produccion_no_hidraulica": 9977.77,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 11,
+  "hora": 18,
+  "demanda": 8358,
+  "produccion_no_hidraulica": 10370.17,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 12,
+  "hora": 6,
+  "demanda": 8473,
+  "produccion_no_hidraulica": 8267.624297188753,
+  "produccion_hidraulica": 345.92570281124495
+},
+{
+  "dia": 12,
+  "hora": 1,
+  "demanda": 7439,
+  "produccion_no_hidraulica": 8879.052262773723,
+  "produccion_hidraulica": 336.3277372262773
+},
+{
+  "dia": 9,
+  "hora": 22,
+  "demanda": 8926,
+  "produccion_no_hidraulica": 10411.12,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 10,
+  "hora": 1,
+  "demanda": 7867,
+  "produccion_no_hidraulica": 8432.739714285713,
+  "produccion_hidraulica": 451.2502857142857
+},
+{
+  "dia": 12,
+  "hora": 8,
+  "demanda": 9284,
+  "produccion_no_hidraulica": 8450.492371794871,
+  "produccion_hidraulica": 279.8176282051282
+},
+{
+  "dia": 12,
+  "hora": 2,
+  "demanda": 7330,
+  "produccion_no_hidraulica": 8563.757209302326,
+  "produccion_hidraulica": 345.3127906976744
+},
+{
+  "dia": 12,
+  "hora": 10,
+  "demanda": 9409,
+  "produccion_no_hidraulica": 9254.660979827091,
+  "produccion_hidraulica": 274.61902017291067
+},
+{
+  "dia": 10,
+  "hora": 22,
+  "demanda": 8527,
+  "produccion_no_hidraulica": 10353.68,
+  "produccion_hidraulica": 0.0
+},
+{
+  "dia": 11,
+  "hora": 7,
+  "demanda": 7209,
+  "produccion_no_hidraulica": 8983.03,
+  "produccion_hidraulica": 0.0
+}
+]
